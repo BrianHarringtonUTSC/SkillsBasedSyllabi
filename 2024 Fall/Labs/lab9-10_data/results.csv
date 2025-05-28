@@ -1,0 +1,33 @@
+name,name,day
+Alice,Banana,SUN
+Alice,Dragon Fruit,TUES
+Alice,Hamburger Buns,MON
+Alice,Ice Pops,TUES
+Alice,Kale,TUES
+Alice,Kale,WED
+Alice,Melon,MON
+Alice,Nectarine,SUN
+Bob,Apple,FRI
+Bob,Apple,SUN
+Bob,Dragon Fruit,SAT
+Bob,Dragon Fruit,WED
+Bob,Hamburger Buns,THURS
+Bob,Ice Pops,WED
+Bob,Melon,THURS
+Frank,Banana,THURS
+Frank,Carrot,SUN
+Frank,Carrot,SUN
+Frank,Eggs,TUES
+Frank,Eggs,WED
+Frank,Kale,MON
+Frank,Kale,SAT
+Frank,Lemon,TUES
+Frank,Nectarine,TUES
+Hannah,Apple,FRI
+Hannah,Dragon Fruit,MON
+Hannah,Juice,TUES
+Ingrid,Carrot,MON
+Ingrid,Juice,WED
+Ingrid,Melon,THURS
+Ingrid,Melon,WED
+Ingrid,Nectarine,TUES
