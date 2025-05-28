@@ -1,0 +1,29 @@
+#This is a python file... everything starting with the # symbol is a comment. It's just for humans to read. 
+
+
+#PART 1:
+#let's ask the user for their name, store those names in variables, and then print them back to the user. Run this code and try to follow what it's doing
+first = input("What is your first name?")
+last = input("What is your surname?")
+print("Your name is: " + first + " " + last)
+
+
+#PART2
+#for this part of the program, we'll need the following info:
+#      1 human year = 7 dog years
+#      1 turtle year = 2.5 human years
+#      assume that the user will enter their age in human years
+
+#your code goes below this line. Un-comment (delete the # symbol) the line below, and try to edit it so that the code runs
+#???? = input("How old are you?")
+print("In human years you are: " + human_age)
+
+
+#once you have the above code working, try to un-comment and complete the following lines of code to make them work
+#dog_age = ????
+#print("In dog years you are: " + str(dog_age))
+#turtle_age = ????
+#print("In turtle years you are: " + str(turtle_age))
+
+#PART3
+#Now it's your turn... ask the user a question, store their answer, do something interesting to it, and send it back to them.

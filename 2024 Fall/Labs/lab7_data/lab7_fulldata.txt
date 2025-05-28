@@ -1,0 +1,4373 @@
+REPORTING:Avalon
+Conservative,12801
+NDP-New Democratic Party,5162
+Liberal,18623
+People's Party - PPC,647
+Conservative,12738
+NDP-New Democratic Party,5151
+Liberal,18608
+People's Party - PPC,647
+REPORTING:Bonavista--Burin--Trinity
+NDP-New Democratic Party,2484
+People's Party - PPC,1257
+Liberal,13972
+Conservative,12249
+NDP-New Democratic Party,2484
+People's Party - PPC,1257
+Liberal,13972
+Conservative,12278
+REPORTING:Coast of Bays--Central--Notre Dame
+NDP-New Democratic Party,2186
+Liberal,13579
+Conservative,14177
+NDP-New Democratic Party,2261
+Liberal,14646
+Conservative,14927
+REPORTING:Labrador
+People's Party - PPC,293
+Conservative,2754
+Liberal,3797
+NDP-New Democratic Party,2193
+People's Party - PPC,307
+Conservative,2930
+Liberal,4119
+NDP-New Democratic Party,2297
+REPORTING:Long Range Mountains
+Conservative,14459
+Liberal,16276
+NDP-New Democratic Party,4387
+People's Party - PPC,1586
+Conservative,14344
+Liberal,16178
+NDP-New Democratic Party,4347
+People's Party - PPC,1578
+REPORTING:St. John's East
+Conservative,7245
+People's Party - PPC,723
+NDP-New Democratic Party,13015
+Liberal,17239
+Conservative,7119
+People's Party - PPC,723
+NDP-New Democratic Party,13090
+Liberal,17239
+REPORTING:St. John's South--Mount Pearl
+NDP-New Democratic Party,8123
+Conservative,6528
+Liberal,19576
+People's Party - PPC,636
+NDP-New Democratic Party,8113
+Conservative,6447
+Liberal,19478
+People's Party - PPC,638
+REPORTING:Cardigan
+People's Party - PPC,715
+Liberal,11175
+Green Party,1064
+Christian Heritage Party,145
+Conservative,6817
+NDP-New Democratic Party,2078
+People's Party - PPC,725
+Liberal,11175
+Green Party,1064
+Christian Heritage Party,145
+Conservative,6817
+NDP-New Democratic Party,2168
+REPORTING:Charlottetown
+NDP-New Democratic Party,2048
+Liberal,8919
+Conservative,5932
+Green Party,1832
+People's Party - PPC,369
+NDP-New Democratic Party,2048
+Liberal,8919
+Conservative,5932
+Green Party,1832
+People's Party - PPC,369
+REPORTING:Egmont
+Conservative,6088
+People's Party - PPC,974
+NDP-New Democratic Party,1688
+Green Party,1771
+Liberal,9050
+Conservative,6088
+People's Party - PPC,974
+NDP-New Democratic Party,1688
+Green Party,1771
+Liberal,9040
+REPORTING:Malpeque
+Green Party,3381
+People's Party - PPC,680
+Liberal,9812
+NDP-New Democratic Party,1898
+Conservative,7836
+Green Party,3381
+People's Party - PPC,680
+Liberal,9912
+NDP-New Democratic Party,1898
+Conservative,7836
+REPORTING:Cape Breton--Canso
+People's Party - PPC,1589
+Liberal,17348
+Conservative,13133
+NDP-New Democratic Party,5395
+People's Party - PPC,1649
+Liberal,18288
+Conservative,13805
+NDP-New Democratic Party,5618
+REPORTING:Central Nova
+Conservative,13044
+Liberal,18656
+Communist,137
+Independent,365
+NDP-New Democratic Party,6230
+People's Party - PPC,1442
+Green Party,488
+Parti Rhinocéros Party,66
+Conservative,13060
+Liberal,18682
+Communist,138
+Independent,365
+NDP-New Democratic Party,6225
+People's Party - PPC,1445
+Green Party,494
+Parti Rhinocéros Party,65
+REPORTING:Cumberland--Colchester
+People's Party - PPC,1671
+Conservative,18646
+Green Party,1050
+Independent,273
+NDP-New Democratic Party,4931
+Liberal,13839
+People's Party - PPC,1687
+Conservative,18601
+Green Party,1045
+Independent,278
+NDP-New Democratic Party,4984
+Liberal,13822
+REPORTING:Dartmouth--Cole Harbour
+Liberal,24495
+People's Party - PPC,4865
+NDP-New Democratic Party,15474
+Green Party,1562
+Liberal,24209
+People's Party - PPC,4781
+NDP-New Democratic Party,15267
+Green Party,1371
+REPORTING:Halifax
+Communist,200
+Conservative,6802
+Liberal,22274
+People's Party - PPC,1084
+Green Party,1165
+NDP-New Democratic Party,20735
+Communist,198
+Conservative,6601
+Liberal,21905
+People's Party - PPC,1069
+Green Party,1128
+NDP-New Democratic Party,20347
+REPORTING:Halifax West
+Liberal,24700
+Conservative,11206
+NDP-New Democratic Party,12326
+Christian Heritage Party,105
+People's Party - PPC,1424
+Green Party,1173
+Liberal,24744
+Conservative,11243
+NDP-New Democratic Party,12331
+Christian Heritage Party,85
+People's Party - PPC,1447
+Green Party,1181
+REPORTING:Kings--Hants
+Liberal,20189
+People's Party - PPC,1945
+Conservative,13234
+Green Party,940
+NDP-New Democratic Party,8645
+Liberal,20192
+People's Party - PPC,1945
+Conservative,13234
+Green Party,940
+NDP-New Democratic Party,8645
+REPORTING:Sackville--Preston--Chezzetcook
+NDP-New Democratic Party,12011
+Conservative,12044
+Green Party,933
+People's Party - PPC,1776
+Liberal,18839
+NDP-New Democratic Party,12012
+Conservative,12047
+Green Party,933
+People's Party - PPC,1776
+Liberal,18838
+REPORTING:South Shore--St. Margarets
+NDP-New Democratic Party,9541
+Liberal,18527
+Conservative,20444
+Green Party,1435
+NDP-New Democratic Party,9541
+Liberal,18575
+Conservative,20454
+Green Party,1434
+REPORTING:Sydney--Victoria
+People's Party - PPC,1195
+Liberal,14198
+Marxist-Leninist,129
+Green Party,443
+Conservative,13107
+NDP-New Democratic Party,7159
+People's Party - PPC,1176
+Liberal,14250
+Marxist-Leninist,127
+Green Party,376
+Conservative,13166
+NDP-New Democratic Party,7217
+REPORTING:West Nova
+NDP-New Democratic Party,5645
+Liberal,13747
+People's Party - PPC,2490
+Conservative,22104
+NDP-New Democratic Party,5645
+Liberal,13732
+People's Party - PPC,2390
+Conservative,22104
+REPORTING:Acadie--Bathurst
+Liberal,27831
+Free Party Canada,549
+NDP-New Democratic Party,4900
+Green Party,1203
+People's Party - PPC,2541
+Conservative,5916
+Liberal,27817
+Free Party Canada,549
+NDP-New Democratic Party,4906
+Green Party,1203
+People's Party - PPC,2531
+Conservative,5916
+REPORTING:Beauséjour
+Green Party,2797
+NDP-New Democratic Party,5479
+Liberal,27313
+People's Party - PPC,3723
+Conservative,9535
+Free Party Canada,391
+Green Party,2798
+NDP-New Democratic Party,5394
+Liberal,27313
+People's Party - PPC,3723
+Conservative,9526
+Free Party Canada,391
+REPORTING:Fredericton
+Liberal,16316
+Conservative,15814
+Libertarian,234
+Green Party,5666
+NDP-New Democratic Party,5564
+Communist,158
+Independent,310
+Liberal,16316
+Conservative,15814
+Libertarian,234
+Green Party,5666
+NDP-New Democratic Party,5564
+Communist,158
+Independent,310
+REPORTING:Fundy Royal
+Liberal,11172
+NDP-New Democratic Party,6295
+Conservative,21561
+Green Party,2236
+People's Party - PPC,3474
+Liberal,11075
+NDP-New Democratic Party,6211
+Conservative,21460
+Green Party,2189
+People's Party - PPC,3447
+REPORTING:Madawaska--Restigouche
+Liberal,16854
+Conservative,7857
+Free Party Canada,1277
+Green Party,786
+NDP-New Democratic Party,1859
+People's Party - PPC,1889
+Liberal,16854
+Conservative,7892
+Free Party Canada,1277
+Green Party,786
+NDP-New Democratic Party,1848
+People's Party - PPC,1889
+REPORTING:Miramichi--Grand Lake
+Green Party,1393
+Liberal,12762
+People's Party - PPC,1835
+NDP-New Democratic Party,2294
+Conservative,14221
+Green Party,1393
+Liberal,12762
+People's Party - PPC,1839
+NDP-New Democratic Party,2291
+Conservative,14218
+REPORTING:Moncton--Riverview--Dieppe
+People's Party - PPC,2899
+Green Party,2231
+NDP-New Democratic Party,7804
+Liberal,22179
+Conservative,10727
+People's Party - PPC,2901
+Green Party,1935
+NDP-New Democratic Party,7774
+Liberal,22460
+Conservative,10692
+REPORTING:New Brunswick Southwest
+Liberal,8797
+Green Party,1588
+People's Party - PPC,3080
+NDP-New Democratic Party,4892
+Conservative,18311
+Liberal,8750
+Green Party,1587
+People's Party - PPC,3090
+NDP-New Democratic Party,4893
+Conservative,18309
+REPORTING:Saint John--Rothesay
+Liberal,17371
+Green Party,948
+Conservative,12315
+NDP-New Democratic Party,4821
+People's Party - PPC,2001
+Liberal,17375
+Green Party,948
+Conservative,12315
+NDP-New Democratic Party,4816
+People's Party - PPC,1996
+REPORTING:Tobique--Mactaquac
+Conservative,17537
+Independent,398
+Green Party,1657
+NDP-New Democratic Party,3656
+Liberal,8222
+People's Party - PPC,2928
+Conservative,17536
+Independent,398
+Green Party,1657
+NDP-New Democratic Party,3656
+Liberal,8223
+People's Party - PPC,2930
+REPORTING:Abitibi--Baie-James--Nunavik--Eeyou
+Free Party Canada,589
+Bloc Québécois,10768
+People's Party - PPC,1077
+Conservative,4500
+Liberal,7324
+NDP-New Democratic Party,3307
+Marijuana Party,324
+Green Party,438
+Free Party Canada,594
+Bloc Québécois,10784
+People's Party - PPC,1072
+Conservative,4508
+Liberal,7384
+NDP-New Democratic Party,3323
+Marijuana Party,329
+Green Party,442
+REPORTING:Abitibi--Témiscamingue
+Green Party,748
+Conservative,5339
+Free Party Canada,857
+People's Party - PPC,1536
+Liberal,11013
+Bloc Québécois,23125
+Parti Rhinocéros Party,276
+NDP-New Democratic Party,2776
+Green Party,748
+Conservative,5339
+Free Party Canada,858
+People's Party - PPC,1538
+Liberal,11013
+Bloc Québécois,23120
+Parti Rhinocéros Party,275
+NDP-New Democratic Party,2794
+REPORTING:Ahuntsic-Cartierville
+NDP-New Democratic Party,5836
+People's Party - PPC,1315
+Conservative,4249
+Green Party,1511
+Liberal,26400
+Bloc Québécois,11115
+NDP-New Democratic Party,5844
+People's Party - PPC,1313
+Conservative,4247
+Green Party,1491
+Liberal,26402
+Bloc Québécois,11112
+REPORTING:Alfred-Pellan
+Free Party Canada,1467
+Green Party,940
+Conservative,6988
+Bloc Québécois,13399
+Liberal,24516
+NDP-New Democratic Party,3946
+Free Party Canada,1467
+Green Party,940
+Conservative,6988
+Bloc Québécois,13399
+Liberal,24516
+NDP-New Democratic Party,3946
+REPORTING:Argenteuil--La Petite-Nation
+Bloc Québécois,17834
+Liberal,19366
+Conservative,6549
+Free Party Canada,746
+People's Party - PPC,2765
+NDP-New Democratic Party,3385
+Bloc Québécois,17842
+Liberal,19371
+Conservative,6547
+Free Party Canada,686
+People's Party - PPC,2777
+NDP-New Democratic Party,3390
+REPORTING:Avignon--La Mitis--Matane--Matapédia
+People's Party - PPC,969
+Conservative,2912
+Free Party Canada,826
+NDP-New Democratic Party,1521
+Bloc Québécois,19776
+Liberal,7095
+People's Party - PPC,965
+Conservative,2912
+Free Party Canada,826
+NDP-New Democratic Party,1501
+Bloc Québécois,19776
+Liberal,7095
+REPORTING:Beauce
+People's Party - PPC,10347
+Free Party Canada,1099
+NDP-New Democratic Party,1637
+Liberal,6992
+Conservative,27488
+Marijuana Party,206
+Bloc Québécois,8606
+Green Party,486
+People's Party - PPC,10362
+Free Party Canada,1096
+NDP-New Democratic Party,1654
+Liberal,7018
+Conservative,27514
+Marijuana Party,206
+Bloc Québécois,8644
+Green Party,486
+REPORTING:Beauport--Limoilou
+Conservative,14092
+Green Party,1078
+NDP-New Democratic Party,5055
+Liberal,12355
+Marxist-Leninist,119
+Free Party Canada,737
+Bloc Québécois,15116
+Conservative,14164
+Green Party,1025
+NDP-New Democratic Party,5075
+Liberal,12378
+Marxist-Leninist,119
+Free Party Canada,737
+Bloc Québécois,15146
+REPORTING:Bécancour--Nicolet--Saurel
+Free Party Canada,1215
+Conservative,8404
+NDP-New Democratic Party,2531
+People's Party - PPC,1224
+Bloc Québécois,27403
+Liberal,8451
+Green Party,770
+Free Party Canada,1215
+Conservative,8404
+NDP-New Democratic Party,2550
+People's Party - PPC,1214
+Bloc Québécois,27403
+Liberal,8451
+Green Party,770
+REPORTING:Bellechasse--Les Etchemins--Lévis
+Free Party Canada,1802
+NDP-New Democratic Party,3183
+Independent,306
+Green Party,913
+Bloc Québécois,14670
+Liberal,10075
+Conservative,32259
+Free Party Canada,1793
+NDP-New Democratic Party,3184
+Independent,306
+Green Party,918
+Bloc Québécois,14669
+Liberal,10074
+Conservative,32238
+REPORTING:Beloeil--Chambly
+Bloc Québécois,34678
+Pour l'Indépendance du Québec,163
+NDP-New Democratic Party,5525
+People's Party - PPC,1344
+Free Party Canada,845
+Green Party,1294
+Liberal,15460
+Conservative,5622
+Parti Rhinocéros Party,185
+Marijuana Party,191
+Bloc Québécois,34678
+Pour l'Indépendance du Québec,163
+NDP-New Democratic Party,5524
+People's Party - PPC,1316
+Free Party Canada,810
+Green Party,1294
+Liberal,15502
+Conservative,5661
+Parti Rhinocéros Party,185
+Marijuana Party,191
+REPORTING:Berthier--Maskinongé
+Liberal,8403
+NDP-New Democratic Party,18351
+Free Party Canada,531
+Marijuana Party,199
+Bloc Québécois,19339
+Green Party,548
+Conservative,6007
+People's Party - PPC,1496
+Liberal,8403
+NDP-New Democratic Party,18402
+Free Party Canada,551
+Marijuana Party,199
+Bloc Québécois,19339
+Green Party,548
+Conservative,6007
+People's Party - PPC,1496
+REPORTING:Thérèse-De Blainville
+People's Party - PPC,1388
+Liberal,18398
+Conservative,5752
+Bloc Québécois,21520
+Green Party,1020
+NDP-New Democratic Party,3816
+Free Party Canada,367
+People's Party - PPC,1386
+Liberal,18396
+Conservative,5773
+Bloc Québécois,21526
+Green Party,1018
+NDP-New Democratic Party,3827
+Free Party Canada,362
+REPORTING:Pierre-Boucher--Les Patriotes--Verchères
+Bloc Québécois,30009
+People's Party - PPC,1112
+Free Party Canada,779
+Liberal,14279
+NDP-New Democratic Party,4231
+Conservative,4872
+Bloc Québécois,29978
+People's Party - PPC,1078
+Free Party Canada,777
+Liberal,14282
+NDP-New Democratic Party,4261
+Conservative,4870
+REPORTING:Bourassa
+Bloc Québécois,6907
+Liberal,22003
+People's Party - PPC,1349
+Green Party,687
+NDP-New Democratic Party,2928
+Independent,151
+Conservative,2587
+Bloc Québécois,6907
+Liberal,22303
+People's Party - PPC,1349
+Green Party,679
+NDP-New Democratic Party,2956
+Independent,151
+Conservative,2587
+REPORTING:Brome--Missisquoi
+Bloc Québécois,21288
+Green Party,1466
+VCP,216
+Independent,145
+Conservative,9961
+Christian Heritage Party,133
+NDP-New Democratic Party,3827
+Free Party Canada,961
+Liberal,21474
+People's Party - PPC,1982
+Bloc Québécois,21291
+Green Party,1466
+VCP,216
+Independent,145
+Conservative,9961
+Christian Heritage Party,133
+NDP-New Democratic Party,3828
+Free Party Canada,961
+Liberal,21488
+People's Party - PPC,1982
+REPORTING:Brossard--Saint-Lambert
+Conservative,6308
+NDP-New Democratic Party,5517
+Bloc Québécois,10640
+Free Party Canada,593
+Liberal,28631
+People's Party - PPC,1290
+Conservative,6276
+NDP-New Democratic Party,5442
+Bloc Québécois,10441
+Free Party Canada,583
+Liberal,28326
+People's Party - PPC,1288
+REPORTING:Rimouski-Neigette--Témiscouata--Les Basques
+Bloc Québécois,20653
+Independent,1471
+Conservative,5569
+Parti Rhinocéros Party,192
+Liberal,10437
+NDP-New Democratic Party,2637
+Free Party Canada,432
+People's Party - PPC,699
+Bloc Québécois,20657
+Independent,1467
+Conservative,5569
+Parti Rhinocéros Party,192
+Liberal,10482
+NDP-New Democratic Party,2641
+Free Party Canada,430
+People's Party - PPC,700
+REPORTING:Charlesbourg--Haute-Saint-Charles
+Liberal,11416
+People's Party - PPC,1296
+NDP-New Democratic Party,3446
+Bloc Québécois,14407
+Green Party,972
+Conservative,25633
+Free Party Canada,468
+Liberal,11326
+People's Party - PPC,1296
+NDP-New Democratic Party,3446
+Bloc Québécois,14237
+Green Party,972
+Conservative,25623
+Free Party Canada,449
+REPORTING:Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix
+Green Party,769
+Liberal,10296
+Bloc Québécois,19212
+NDP-New Democratic Party,2239
+Free Party Canada,448
+Conservative,15826
+People's Party - PPC,891
+Independent,236
+Green Party,733
+Liberal,10365
+Bloc Québécois,19270
+NDP-New Democratic Party,2242
+Free Party Canada,449
+Conservative,15969
+People's Party - PPC,881
+Independent,227
+REPORTING:Châteauguay--Lacolle
+People's Party - PPC,1821
+Conservative,5538
+Pour l'Indépendance du Québec,277
+Free Party Canada,448
+Bloc Québécois,18017
+Green Party,801
+Liberal,18029
+NDP-New Democratic Party,3752
+People's Party - PPC,1870
+Conservative,5534
+Pour l'Indépendance du Québec,295
+Free Party Canada,449
+Bloc Québécois,18368
+Green Party,804
+Liberal,17762
+NDP-New Democratic Party,4089
+People's Party - PPC,1836
+Conservative,5534
+Pour l'Indépendance du Québec,277
+Free Party Canada,449
+Bloc Québécois,18028
+Green Party,804
+Liberal,17742
+NDP-New Democratic Party,4079
+REPORTING:Chicoutimi--Le Fjord
+Bloc Québécois,14096
+Liberal,7746
+Green Party,489
+Conservative,17291
+NDP-New Democratic Party,1952
+People's Party - PPC,650
+Bloc Québécois,14027
+Liberal,7676
+Green Party,482
+Conservative,17228
+NDP-New Democratic Party,1944
+People's Party - PPC,649
+REPORTING:Compton--Stanstead
+NDP-New Democratic Party,4277
+Liberal,21188
+People's Party - PPC,2167
+Bloc Québécois,17688
+Green Party,1626
+Free Party Canada,576
+Independent,187
+Conservative,10087
+NDP-New Democratic Party,4288
+Liberal,21188
+People's Party - PPC,2167
+Bloc Québécois,17681
+Green Party,1623
+Free Party Canada,576
+Independent,186
+Conservative,10087
+REPORTING:Dorval--Lachine--LaSalle
+Conservative,5754
+Liberal,25233
+Bloc Québécois,7542
+Green Party,1351
+NDP-New Democratic Party,6241
+People's Party - PPC,2020
+Conservative,5754
+Liberal,25233
+Bloc Québécois,7542
+Green Party,1351
+NDP-New Democratic Party,6241
+People's Party - PPC,2020
+REPORTING:Drummond
+Liberal,9614
+Bloc Québécois,23819
+NDP-New Democratic Party,5723
+Conservative,9166
+Free Party Canada,1732
+No Affiliation,419
+Animal Protection Party,674
+Liberal,9614
+Bloc Québécois,23866
+NDP-New Democratic Party,5709
+Conservative,9179
+Free Party Canada,1728
+No Affiliation,419
+Animal Protection Party,674
+REPORTING:Gaspésie--Les Îles-de-la-Madeleine
+Bloc Québécois,14480
+Liberal,17097
+Free Party Canada,282
+NDP-New Democratic Party,1359
+Conservative,2996
+People's Party - PPC,621
+Bloc Québécois,14481
+Liberal,17099
+Free Party Canada,289
+NDP-New Democratic Party,1358
+Conservative,3010
+People's Party - PPC,621
+REPORTING:Gatineau
+Conservative,5708
+Parti Rhinocéros Party,180
+Green Party,781
+Free Party Canada,548
+Liberal,26162
+Bloc Québécois,12236
+NDP-New Democratic Party,4501
+People's Party - PPC,2279
+Marxist-Leninist,64
+Conservative,5752
+Parti Rhinocéros Party,178
+Green Party,783
+Free Party Canada,411
+Liberal,26267
+Bloc Québécois,12278
+NDP-New Democratic Party,4508
+People's Party - PPC,2264
+Marxist-Leninist,56
+REPORTING:Hochelaga
+Conservative,2186
+Marxist-Leninist,82
+People's Party - PPC,1070
+Green Party,958
+Bloc Québécois,14866
+Liberal,17953
+Communist,118
+NDP-New Democratic Party,9751
+Parti Rhinocéros Party,237
+Conservative,2221
+Marxist-Leninist,84
+People's Party - PPC,1081
+Green Party,965
+Bloc Québécois,15089
+Liberal,18197
+Communist,108
+NDP-New Democratic Party,9723
+Parti Rhinocéros Party,238
+REPORTING:Honoré-Mercier
+NDP-New Democratic Party,3537
+Conservative,5096
+Green Party,738
+Marxist-Leninist,89
+Bloc Québécois,7908
+People's Party - PPC,2023
+Liberal,29061
+NDP-New Democratic Party,3537
+Conservative,5086
+Green Party,734
+Marxist-Leninist,88
+Bloc Québécois,7908
+People's Party - PPC,2023
+Liberal,29033
+REPORTING:Hull--Aylmer
+Independent,144
+Liberal,26893
+People's Party - PPC,1873
+NDP-New Democratic Party,6486
+Green Party,1461
+Free Party Canada,378
+Parti Rhinocéros Party,227
+Conservative,5514
+Bloc Québécois,8259
+Independent,143
+Liberal,26892
+People's Party - PPC,1864
+NDP-New Democratic Party,6483
+Green Party,1459
+Free Party Canada,375
+Parti Rhinocéros Party,203
+Conservative,5507
+Bloc Québécois,8323
+REPORTING:Joliette
+NDP-New Democratic Party,3100
+Liberal,12731
+Free Party Canada,992
+People's Party - PPC,1771
+Conservative,5314
+Green Party,1126
+Bloc Québécois,30913
+Marijuana Party,251
+NDP-New Democratic Party,3100
+Liberal,12731
+Free Party Canada,992
+People's Party - PPC,1771
+Conservative,5314
+Green Party,1126
+Bloc Québécois,30913
+Marijuana Party,251
+REPORTING:Jonquière
+Liberal,9529
+Parti Rhinocéros Party,372
+Conservative,13323
+NDP-New Democratic Party,2625
+Bloc Québécois,19036
+Green Party,744
+Liberal,9546
+Parti Rhinocéros Party,372
+Conservative,13223
+NDP-New Democratic Party,2559
+Bloc Québécois,19036
+Green Party,738
+REPORTING:La Pointe-de-l'Île
+Conservative,3441
+Bloc Québécois,23835
+People's Party - PPC,1399
+Liberal,16480
+Free Party Canada,605
+Pour l'Indépendance du Québec,221
+Marxist-Leninist,170
+NDP-New Democratic Party,5124
+Conservative,3427
+Bloc Québécois,23835
+People's Party - PPC,1399
+Liberal,16508
+Free Party Canada,577
+Pour l'Indépendance du Québec,221
+Marxist-Leninist,159
+NDP-New Democratic Party,4954
+REPORTING:La Prairie
+Marxist-Leninist,98
+Liberal,20447
+People's Party - PPC,1535
+NDP-New Democratic Party,4338
+Green Party,1005
+Bloc Québécois,25742
+Conservative,5877
+Marxist-Leninist,98
+Liberal,20470
+People's Party - PPC,1532
+NDP-New Democratic Party,4317
+Green Party,983
+Bloc Québécois,25862
+Conservative,5878
+REPORTING:Lac-Saint-Jean
+Conservative,12788
+Bloc Québécois,25351
+NDP-New Democratic Party,1723
+Green Party,823
+Liberal,9311
+Conservative,12899
+Bloc Québécois,25466
+NDP-New Democratic Party,1637
+Green Party,824
+Liberal,9371
+REPORTING:Lac-Saint-Louis
+Conservative,10570
+NDP-New Democratic Party,7370
+Green Party,1805
+People's Party - PPC,1679
+Bloc Québécois,3005
+Liberal,30777
+Conservative,10911
+NDP-New Democratic Party,7679
+Green Party,1868
+People's Party - PPC,1712
+Bloc Québécois,3078
+Liberal,32477
+REPORTING:LaSalle--Émard--Verdun
+Free Party Canada,646
+Green Party,1439
+NDP-New Democratic Party,9156
+Communist,232
+Bloc Québécois,10636
+Liberal,20254
+Conservative,3520
+People's Party - PPC,1596
+Free Party Canada,636
+Green Party,1439
+NDP-New Democratic Party,9168
+Communist,196
+Bloc Québécois,10461
+Liberal,20330
+Conservative,3530
+People's Party - PPC,1600
+REPORTING:Laurentides--Labelle
+NDP-New Democratic Party,3905
+People's Party - PPC,2433
+Bloc Québécois,32033
+Conservative,6769
+Green Party,1570
+Free Party Canada,1165
+Liberal,15950
+Independent,178
+NDP-New Democratic Party,3907
+People's Party - PPC,2432
+Bloc Québécois,32133
+Conservative,6770
+Green Party,1570
+Free Party Canada,1165
+Liberal,15966
+Independent,180
+REPORTING:Laurier--Sainte-Marie
+Liberal,16916
+Independent,74
+Marxist-Leninist,70
+Animal Protection Party,199
+Green Party,1002
+NDP-New Democratic Party,14674
+Bloc Québécois,9110
+Free Party Canada,239
+Conservative,1483
+People's Party - PPC,758
+Communist,94
+Liberal,16961
+Independent,74
+Marxist-Leninist,70
+Animal Protection Party,199
+Green Party,992
+NDP-New Democratic Party,14680
+Bloc Québécois,9114
+Free Party Canada,233
+Conservative,1500
+People's Party - PPC,758
+Communist,95
+REPORTING:Laval--Les Îles
+People's Party - PPC,2549
+Liberal,24631
+Bloc Québécois,9665
+Conservative,8944
+Green Party,799
+NDP-New Democratic Party,3863
+People's Party - PPC,2571
+Liberal,24758
+Bloc Québécois,9656
+Conservative,8963
+Green Party,760
+NDP-New Democratic Party,3889
+REPORTING:Longueuil--Charles-LeMoyne
+Bloc Québécois,16959
+Green Party,1163
+Marxist-Leninist,128
+NDP-New Democratic Party,4957
+Conservative,4035
+People's Party - PPC,1409
+Liberal,19319
+Bloc Québécois,16926
+Green Party,1170
+Marxist-Leninist,122
+NDP-New Democratic Party,4957
+Conservative,3986
+People's Party - PPC,1409
+Liberal,19400
+REPORTING:Lévis--Lotbinière
+Green Party,855
+Parti Patriote,95
+Liberal,9270
+NDP-New Democratic Party,4490
+Conservative,32668
+Bloc Québécois,13739
+Free Party Canada,548
+People's Party - PPC,1661
+Green Party,856
+Parti Patriote,95
+Liberal,9286
+NDP-New Democratic Party,4497
+Conservative,32731
+Bloc Québécois,13740
+Free Party Canada,541
+People's Party - PPC,1661
+REPORTING:Longueuil--Saint-Hubert
+Liberal,21930
+People's Party - PPC,1358
+Green Party,1599
+Pour l'Indépendance du Québec,252
+NDP-New Democratic Party,4553
+Conservative,3964
+Bloc Québécois,23579
+Liberal,21930
+People's Party - PPC,1358
+Green Party,1599
+Pour l'Indépendance du Québec,252
+NDP-New Democratic Party,4553
+Conservative,3964
+Bloc Québécois,23579
+REPORTING:Louis-Hébert
+Green Party,1572
+Independent,379
+Bloc Québécois,16249
+Liberal,22933
+Conservative,14332
+NDP-New Democratic Party,4324
+Green Party,1573
+Independent,378
+Bloc Québécois,16247
+Liberal,22933
+Conservative,14332
+NDP-New Democratic Party,4337
+REPORTING:Louis-Saint-Laurent
+Bloc Québécois,13069
+Green Party,907
+People's Party - PPC,1337
+Conservative,33098
+Free Party Canada,1089
+NDP-New Democratic Party,3370
+Liberal,11228
+Bloc Québécois,13069
+Green Party,907
+People's Party - PPC,1337
+Conservative,33098
+Free Party Canada,1089
+NDP-New Democratic Party,3370
+Liberal,11228
+REPORTING:Manicouagan
+Liberal,6539
+Bloc Québécois,18414
+Free Party Canada,887
+NDP-New Democratic Party,1514
+Conservative,7614
+Liberal,6545
+Bloc Québécois,18419
+Free Party Canada,887
+NDP-New Democratic Party,1509
+Conservative,7640
+REPORTING:Mégantic--L'Érable
+Conservative,26121
+Independent,403
+NDP-New Democratic Party,1308
+People's Party - PPC,1677
+Green Party,592
+Bloc Québécois,9318
+Liberal,6329
+Free Party Canada,680
+Conservative,26121
+Independent,403
+NDP-New Democratic Party,1308
+People's Party - PPC,1677
+Green Party,592
+Bloc Québécois,9318
+Liberal,6329
+Free Party Canada,680
+REPORTING:Mirabel
+NDP-New Democratic Party,5305
+Free Party Canada,1187
+Bloc Québécois,29293
+Green Party,1415
+Conservative,8478
+Liberal,14847
+People's Party - PPC,2597
+NDP-New Democratic Party,5221
+Free Party Canada,1182
+Bloc Québécois,29376
+Green Party,1412
+Conservative,8510
+Liberal,14842
+People's Party - PPC,2569
+REPORTING:Montarville
+Bloc Québécois,25972
+People's Party - PPC,1229
+Liberal,19942
+Conservative,5455
+NDP-New Democratic Party,4796
+Bloc Québécois,26011
+People's Party - PPC,1218
+Liberal,19974
+Conservative,5460
+NDP-New Democratic Party,4809
+REPORTING:Montcalm
+People's Party - PPC,2258
+Free Party Canada,1074
+Conservative,6011
+NDP-New Democratic Party,3218
+Green Party,1317
+Liberal,10196
+Bloc Québécois,27378
+People's Party - PPC,2258
+Free Party Canada,1074
+Conservative,6011
+NDP-New Democratic Party,3218
+Green Party,1317
+Liberal,10196
+Bloc Québécois,27378
+REPORTING:Montmagny--L'Islet--Kamouraska--Rivière-du-Loup
+Bloc Québécois,12523
+NDP-New Democratic Party,1597
+Conservative,24118
+Liberal,8371
+Parti Rhinocéros Party,269
+Free Party Canada,919
+Bloc Québécois,12550
+NDP-New Democratic Party,1597
+Conservative,24118
+Liberal,8361
+Parti Rhinocéros Party,269
+Free Party Canada,917
+REPORTING:Mount Royal
+Green Party,1085
+Conservative,9871
+NDP-New Democratic Party,3378
+Liberal,23292
+Marxist-Leninist,96
+Bloc Québécois,1582
+People's Party - PPC,1053
+Green Party,1083
+Conservative,9889
+NDP-New Democratic Party,3381
+Liberal,23284
+Marxist-Leninist,89
+Bloc Québécois,1585
+People's Party - PPC,1051
+REPORTING:Notre-Dame-de-Grâce--Westmount
+Bloc Québécois,2409
+NDP-New Democratic Party,8753
+Green Party,1829
+People's Party - PPC,1498
+Liberal,24593
+Marxist-Leninist,126
+Conservative,6407
+Christian Heritage Party,65
+Bloc Québécois,2407
+NDP-New Democratic Party,8753
+Green Party,1835
+People's Party - PPC,1498
+Liberal,24510
+Marxist-Leninist,117
+Conservative,6412
+Christian Heritage Party,59
+REPORTING:Outremont
+Liberal,16442
+Bloc Québécois,5491
+Independent,94
+Conservative,2848
+People's Party - PPC,813
+NDP-New Democratic Party,9487
+Green Party,1202
+Liberal,16714
+Bloc Québécois,5535
+Independent,93
+Conservative,2882
+People's Party - PPC,819
+NDP-New Democratic Party,9579
+Green Party,1198
+REPORTING:Papineau
+Bloc Québécois,6874
+People's Party - PPC,1060
+Marxist-Leninist,115
+Green Party,1458
+Independent,108
+NDP-New Democratic Party,10303
+Conservative,2203
+Liberal,22526
+Independent,427
+Parti Rhinocéros Party,428
+Bloc Québécois,6830
+People's Party - PPC,1064
+Marxist-Leninist,115
+Green Party,1448
+Independent,102
+NDP-New Democratic Party,10303
+Conservative,2198
+Liberal,22848
+Independent,97
+Parti Rhinocéros Party,418
+REPORTING:Pierrefonds--Dollard
+Bloc Québécois,4141
+Conservative,10893
+People's Party - PPC,1942
+NDP-New Democratic Party,6034
+Liberal,29296
+Bloc Québécois,4141
+Conservative,10893
+People's Party - PPC,1942
+NDP-New Democratic Party,6034
+Liberal,29296
+REPORTING:Pontiac
+Liberal,26999
+Bloc Québécois,10425
+Conservative,12798
+NDP-New Democratic Party,6824
+People's Party - PPC,2821
+Free Party Canada,507
+Green Party,1710
+CFF - Canada's Fourth Front,72
+Liberal,26899
+Bloc Québécois,10424
+Conservative,12804
+NDP-New Democratic Party,6824
+People's Party - PPC,2813
+Free Party Canada,480
+Green Party,1711
+CFF - Canada's Fourth Front,52
+REPORTING:Portneuf--Jacques-Cartier
+Liberal,10068
+Free Party Canada,677
+NDP-New Democratic Party,3323
+Conservative,33638
+Bloc Québécois,15595
+People's Party - PPC,1709
+Parti Rhinocéros Party,490
+Liberal,10068
+Free Party Canada,638
+NDP-New Democratic Party,3223
+Conservative,33657
+Bloc Québécois,15525
+People's Party - PPC,1615
+Parti Rhinocéros Party,490
+REPORTING:Québec
+Conservative,9195
+People's Party - PPC,855
+NDP-New Democratic Party,6666
+Liberal,18121
+Green Party,1176
+Bloc Québécois,14854
+Free Party Canada,305
+Conservative,9239
+People's Party - PPC,855
+NDP-New Democratic Party,6652
+Liberal,18132
+Green Party,1182
+Bloc Québécois,14824
+Free Party Canada,307
+REPORTING:Repentigny
+Conservative,5332
+Pour l'Indépendance du Québec,516
+Free Party Canada,2026
+Liberal,16471
+NDP-New Democratic Party,4489
+Bloc Québécois,30858
+Conservative,5328
+Pour l'Indépendance du Québec,516
+Free Party Canada,2025
+Liberal,16500
+NDP-New Democratic Party,4484
+Bloc Québécois,30848
+REPORTING:Richmond--Arthabaska
+NDP-New Democratic Party,2539
+Parti Rhinocéros Party,448
+Liberal,8543
+People's Party - PPC,2058
+Conservative,28253
+Free Party Canada,898
+Bloc Québécois,14150
+NDP-New Democratic Party,2550
+Parti Rhinocéros Party,448
+Liberal,8543
+People's Party - PPC,2058
+Conservative,28513
+Free Party Canada,897
+Bloc Québécois,14150
+REPORTING:Rivière-des-Mille-Îles
+Free Party Canada,847
+Pour l'Indépendance du Québec,129
+Bloc Québécois,21645
+Parti Patriote,148
+Conservative,5479
+NDP-New Democratic Party,3903
+Liberal,18838
+People's Party - PPC,1505
+Green Party,971
+Free Party Canada,847
+Pour l'Indépendance du Québec,119
+Bloc Québécois,21645
+Parti Patriote,149
+Conservative,5479
+NDP-New Democratic Party,3852
+Liberal,18835
+People's Party - PPC,1468
+Green Party,972
+REPORTING:Rivière-du-Nord
+Liberal,12766
+Free Party Canada,1035
+Bloc Québécois,29941
+Conservative,6891
+NDP-New Democratic Party,3950
+People's Party - PPC,2165
+Parti Rhinocéros Party,374
+Pour l'Indépendance du Québec,282
+Liberal,12767
+Free Party Canada,1036
+Bloc Québécois,29943
+Conservative,6803
+NDP-New Democratic Party,3958
+People's Party - PPC,2164
+Parti Rhinocéros Party,373
+Pour l'Indépendance du Québec,285
+REPORTING:Rosemont--La Petite-Patrie
+NDP-New Democratic Party,26726
+Marxist-Leninist,346
+Liberal,12633
+Green Party,1378
+Conservative,2207
+Bloc Québécois,11732
+NDP-New Democratic Party,26708
+Marxist-Leninist,284
+Liberal,12738
+Green Party,1308
+Conservative,2199
+Bloc Québécois,11751
+REPORTING:Marc-Aurèle-Fortin
+NDP-New Democratic Party,4451
+Free Party Canada,990
+Bloc Québécois,16055
+People's Party - PPC,1509
+Conservative,6120
+Liberal,22895
+NDP-New Democratic Party,4461
+Free Party Canada,990
+Bloc Québécois,16055
+People's Party - PPC,1509
+Conservative,6120
+Liberal,22992
+REPORTING:Saint-Hyacinthe--Bagot
+Liberal,12030
+Free Party Canada,1053
+Conservative,7156
+People's Party - PPC,1445
+NDP-New Democratic Party,6170
+Bloc Québécois,25191
+Liberal,12030
+Free Party Canada,1055
+Conservative,7166
+People's Party - PPC,1445
+NDP-New Democratic Party,6170
+Bloc Québécois,25165
+REPORTING:Saint-Jean
+Conservative,7544
+Free Party Canada,1790
+Pour l'Indépendance du Québec,413
+NDP-New Democratic Party,4308
+Bloc Québécois,27243
+Liberal,16650
+Green Party,1262
+Conservative,7544
+Free Party Canada,1790
+Pour l'Indépendance du Québec,413
+NDP-New Democratic Party,4308
+Bloc Québécois,27243
+Liberal,16650
+Green Party,1262
+REPORTING:Saint-Laurent
+Marxist-Leninist,146
+NDP-New Democratic Party,4052
+Liberal,22056
+Bloc Québécois,2973
+Conservative,6902
+People's Party - PPC,1183
+Marxist-Leninist,146
+NDP-New Democratic Party,4059
+Liberal,22056
+Bloc Québécois,2972
+Conservative,6902
+People's Party - PPC,1182
+REPORTING:Saint-Léonard--Saint-Michel
+NDP-New Democratic Party,3460
+Conservative,4381
+Liberal,29024
+Bloc Québécois,3487
+People's Party - PPC,1579
+NDP-New Democratic Party,3460
+Conservative,4381
+Liberal,29010
+Bloc Québécois,3395
+People's Party - PPC,1568
+REPORTING:Saint-Maurice--Champlain
+Marijuana Party,307
+NDP-New Democratic Party,2839
+Conservative,10139
+Bloc Québécois,16942
+Liberal,23913
+Parti Rhinocéros Party,290
+Green Party,731
+Independent,241
+Free Party Canada,1059
+Marijuana Party,307
+NDP-New Democratic Party,2849
+Conservative,10139
+Bloc Québécois,16940
+Liberal,23913
+Parti Rhinocéros Party,285
+Green Party,731
+Independent,241
+Free Party Canada,932
+REPORTING:Salaberry--Suroît
+Pour l'Indépendance du Québec,452
+Conservative,7475
+Bloc Québécois,29013
+Liberal,16545
+NDP-New Democratic Party,4529
+Free Party Canada,561
+People's Party - PPC,2207
+Pour l'Indépendance du Québec,449
+Conservative,7476
+Bloc Québécois,29093
+Liberal,16550
+NDP-New Democratic Party,4529
+Free Party Canada,561
+People's Party - PPC,2207
+REPORTING:Shefford
+Pour l'Indépendance du Québec,239
+Liberal,19902
+Marijuana Party,294
+NDP-New Democratic Party,3173
+Free Party Canada,599
+Conservative,7228
+Bloc Québécois,24996
+Green Party,1060
+People's Party - PPC,2073
+Pour l'Indépendance du Québec,239
+Liberal,19968
+Marijuana Party,284
+NDP-New Democratic Party,3173
+Free Party Canada,599
+Conservative,7234
+Bloc Québécois,24997
+Green Party,1059
+People's Party - PPC,2073
+REPORTING:Sherbrooke
+Green Party,1670
+Free Party Canada,787
+Liberal,21830
+Bloc Québécois,16848
+NDP-New Democratic Party,8097
+People's Party - PPC,1453
+Conservative,7490
+Green Party,1670
+Free Party Canada,787
+Liberal,21830
+Bloc Québécois,16848
+NDP-New Democratic Party,8107
+People's Party - PPC,1453
+Conservative,7490
+REPORTING:Vaudreuil--Soulanges
+NDP-New Democratic Party,6795
+Conservative,10566
+Free Party Canada,1359
+Liberal,29960
+Green Party,1637
+Bloc Québécois,14313
+NDP-New Democratic Party,6780
+Conservative,10556
+Free Party Canada,1288
+Liberal,30001
+Green Party,1631
+Bloc Québécois,14308
+REPORTING:Terrebonne
+No Affiliation,3874
+Conservative,6184
+Liberal,17474
+Free Party Canada,821
+Green Party,847
+NDP-New Democratic Party,3903
+Bloc Québécois,24248
+People's Party - PPC,1594
+No Affiliation,3864
+Conservative,6183
+Liberal,17475
+Free Party Canada,803
+Green Party,847
+NDP-New Democratic Party,3913
+Bloc Québécois,24270
+People's Party - PPC,1594
+REPORTING:Trois-Rivières
+Free Party Canada,735
+Liberal,16637
+Green Party,754
+People's Party - PPC,1115
+Conservative,17053
+NDP-New Democratic Party,4680
+Bloc Québécois,17136
+Free Party Canada,733
+Liberal,16560
+Green Party,780
+People's Party - PPC,1112
+Conservative,17027
+NDP-New Democratic Party,4658
+Bloc Québécois,17120
+Free Party Canada,733
+Liberal,16563
+Green Party,780
+People's Party - PPC,1112
+Conservative,17027
+NDP-New Democratic Party,4678
+Bloc Québécois,17119
+REPORTING:Ville-Marie--Le Sud-Ouest--Île-des-Soeurs
+Green Party,1353
+People's Party - PPC,1324
+Liberal,25519
+Bloc Québécois,6276
+Conservative,6320
+Marxist-Leninist,125
+NDP-New Democratic Party,9498
+Marijuana Party,137
+Green Party,1343
+People's Party - PPC,1291
+Liberal,24978
+Bloc Québécois,6176
+Conservative,6138
+Marxist-Leninist,122
+NDP-New Democratic Party,9241
+Marijuana Party,134
+REPORTING:Vimy
+NDP-New Democratic Party,4731
+Bloc Québécois,11810
+Conservative,6829
+Liberal,25322
+People's Party - PPC,2189
+NDP-New Democratic Party,4731
+Bloc Québécois,11811
+Conservative,6829
+Liberal,25316
+People's Party - PPC,2175
+REPORTING:Ajax
+Conservative,13206
+Liberal,28294
+NDP-New Democratic Party,6960
+Green Party,1254
+Conservative,13237
+Liberal,28279
+NDP-New Democratic Party,6988
+Green Party,1254
+REPORTING:Algoma--Manitoulin--Kapuskasing
+Christian Heritage Party,270
+NDP-New Democratic Party,15306
+People's Party - PPC,2857
+Liberal,8501
+Conservative,10902
+Green Party,703
+Christian Heritage Party,289
+NDP-New Democratic Party,15895
+People's Party - PPC,2840
+Liberal,8888
+Conservative,10885
+Green Party,726
+REPORTING:Aurora--Oak Ridges--Richmond Hill
+Conservative,19314
+NDP-New Democratic Party,3594
+Libertarian,500
+People's Party - PPC,1734
+Liberal,20764
+Conservative,19304
+NDP-New Democratic Party,3594
+Libertarian,500
+People's Party - PPC,1734
+Liberal,20764
+REPORTING:Barrie--Innisfil
+People's Party - PPC,4060
+Conservative,25234
+NDP-New Democratic Party,8344
+Liberal,15279
+People's Party - PPC,4060
+Conservative,25234
+NDP-New Democratic Party,8349
+Liberal,15292
+REPORTING:Barrie--Springwater--Oro-Medonte
+NDP-New Democratic Party,8913
+Liberal,16145
+Conservative,23554
+People's Party - PPC,3629
+NDP-New Democratic Party,8910
+Liberal,16145
+Conservative,23555
+People's Party - PPC,3629
+REPORTING:Bay of Quinte
+NDP-New Democratic Party,9185
+Green Party,1386
+Liberal,22542
+People's Party - PPC,3045
+Conservative,25529
+NDP-New Democratic Party,9284
+Green Party,1350
+Liberal,22542
+People's Party - PPC,3045
+Conservative,25479
+REPORTING:Beaches--East York
+Green Party,1376
+Liberal,28706
+Marxist-Leninist,50
+Communist,131
+People's Party - PPC,1601
+Conservative,7292
+NDP-New Democratic Party,11420
+Independent,166
+Green Party,1388
+Liberal,28919
+Marxist-Leninist,50
+Communist,131
+People's Party - PPC,1613
+Conservative,7336
+NDP-New Democratic Party,11513
+Independent,166
+REPORTING:Brampton Centre
+Liberal,16184
+NDP-New Democratic Party,5900
+Independent,812
+Conservative,11038
+Liberal,16189
+NDP-New Democratic Party,5932
+Independent,824
+Conservative,11026
+REPORTING:Brampton East
+Conservative,11669
+NDP-New Democratic Party,6576
+Liberal,22187
+People's Party - PPC,1088
+Conservative,11647
+NDP-New Democratic Party,6511
+Liberal,22120
+People's Party - PPC,1073
+REPORTING:Brampton North
+Conservative,13267
+Liberal,23003
+NDP-New Democratic Party,6386
+Conservative,13289
+Liberal,23412
+NDP-New Democratic Party,6448
+REPORTING:Brampton South
+Conservative,12599
+People's Party - PPC,1818
+Liberal,21115
+NDP-New Democratic Party,5894
+Conservative,12596
+People's Party - PPC,1820
+Liberal,21120
+NDP-New Democratic Party,5894
+REPORTING:Brampton West
+Conservative,13168
+NDP-New Democratic Party,6105
+Liberal,25732
+Independent,329
+People's Party - PPC,1213
+Conservative,13186
+NDP-New Democratic Party,6097
+Liberal,25780
+Independent,328
+People's Party - PPC,1218
+REPORTING:Brantford--Brant
+Independent,162
+Conservative,26668
+Green Party,1760
+Liberal,18784
+NDP-New Democratic Party,12950
+People's Party - PPC,5634
+Independent,138
+Independent,160
+Conservative,26675
+Green Party,1759
+Liberal,18795
+NDP-New Democratic Party,12964
+People's Party - PPC,5633
+Independent,136
+REPORTING:Bruce--Grey--Owen Sound
+People's Party - PPC,4863
+Independent,545
+Green Party,1830
+NDP-New Democratic Party,8107
+Conservative,29559
+Liberal,15050
+People's Party - PPC,4697
+Independent,524
+Green Party,1789
+NDP-New Democratic Party,7939
+Conservative,28727
+Liberal,14738
+REPORTING:Burlington
+People's Party - PPC,2764
+Conservative,25842
+Parti Rhinocéros Party,122
+Green Party,1368
+Liberal,31602
+NDP-New Democratic Party,7510
+People's Party - PPC,2764
+Conservative,25742
+Parti Rhinocéros Party,122
+Green Party,1368
+Liberal,31602
+NDP-New Democratic Party,7507
+REPORTING:Cambridge
+Green Party,1863
+NDP-New Democratic Party,9316
+Conservative,18851
+Liberal,20796
+People's Party - PPC,3931
+Green Party,1860
+NDP-New Democratic Party,9319
+Conservative,18876
+Liberal,20866
+People's Party - PPC,3931
+REPORTING:Chatham-Kent--Leamington
+Conservative,22335
+NDP-New Democratic Party,8007
+Liberal,15681
+People's Party - PPC,7891
+Green Party,838
+Conservative,22435
+NDP-New Democratic Party,8007
+Liberal,15683
+People's Party - PPC,7892
+Green Party,837
+REPORTING:Davenport
+NDP-New Democratic Party,19695
+Green Party,1078
+People's Party - PPC,1582
+Liberal,19860
+Independent,85
+Conservative,4740
+Independent,85
+NDP-New Democratic Party,19854
+Green Party,1087
+People's Party - PPC,1499
+Liberal,19930
+Independent,77
+Conservative,4774
+Independent,86
+REPORTING:Don Valley East
+Liberal,22503
+People's Party - PPC,2033
+NDP-New Democratic Party,4879
+Conservative,8428
+Liberal,22356
+People's Party - PPC,1585
+NDP-New Democratic Party,4618
+Conservative,8766
+REPORTING:Don Valley North
+Liberal,22067
+NDP-New Democratic Party,4337
+People's Party - PPC,1366
+Green Party,780
+Conservative,12054
+Liberal,22067
+NDP-New Democratic Party,4304
+People's Party - PPC,1301
+Green Party,765
+Conservative,12098
+REPORTING:Don Valley West
+Green Party,761
+Centrist,65
+People's Party - PPC,881
+Liberal,24796
+NDP-New Democratic Party,3814
+Conservative,16707
+Green Party,761
+Centrist,65
+People's Party - PPC,881
+Liberal,24798
+NDP-New Democratic Party,3814
+Conservative,16695
+REPORTING:Dufferin--Caledon
+Green Party,2898
+Independent,248
+Liberal,22587
+NDP-New Democratic Party,6972
+Conservative,31736
+People's Party - PPC,4597
+Green Party,2754
+Independent,207
+Liberal,19867
+NDP-New Democratic Party,6866
+Conservative,31490
+People's Party - PPC,4389
+REPORTING:Durham
+Independent,251
+NDP-New Democratic Party,11823
+People's Party - PPC,3722
+Liberal,20205
+Conservative,31421
+Independent,49
+Parti Rhinocéros Party,148
+Independent,251
+NDP-New Democratic Party,11865
+People's Party - PPC,3725
+Liberal,20267
+Conservative,31423
+Independent,49
+Parti Rhinocéros Party,150
+REPORTING:Eglinton--Lawrence
+Green Party,1475
+People's Party - PPC,1410
+Liberal,23939
+Conservative,17916
+NDP-New Democratic Party,4510
+Green Party,1490
+People's Party - PPC,1445
+Liberal,24051
+Conservative,18082
+NDP-New Democratic Party,4543
+REPORTING:Elgin--Middlesex--London
+Liberal,12325
+NDP-New Democratic Party,10085
+People's Party - PPC,7429
+Christian Heritage Party,336
+Green Party,1417
+Conservative,31372
+Liberal,12326
+NDP-New Democratic Party,10086
+People's Party - PPC,7429
+Christian Heritage Party,328
+Green Party,1417
+Conservative,31472
+REPORTING:Essex
+People's Party - PPC,6925
+Liberal,10778
+Independent,172
+Conservative,28741
+Christian Heritage Party,182
+Green Party,859
+NDP-New Democratic Party,22269
+People's Party - PPC,6925
+Liberal,10813
+Independent,172
+Conservative,28741
+Christian Heritage Party,182
+Green Party,865
+NDP-New Democratic Party,22278
+REPORTING:Etobicoke Centre
+Liberal,27623
+People's Party - PPC,4000
+NDP-New Democratic Party,5809
+Conservative,20208
+Liberal,27635
+People's Party - PPC,4003
+NDP-New Democratic Party,5804
+Conservative,20108
+REPORTING:Etobicoke--Lakeshore
+Conservative,20436
+Parti Rhinocéros Party,119
+Marxist-Leninist,139
+Green Party,1363
+NDP-New Democratic Party,8774
+Liberal,30359
+People's Party - PPC,2857
+Conservative,20457
+Parti Rhinocéros Party,119
+Marxist-Leninist,139
+Green Party,1363
+NDP-New Democratic Party,8775
+Liberal,30355
+People's Party - PPC,2857
+REPORTING:Etobicoke North
+People's Party - PPC,1536
+Liberal,21212
+Conservative,8873
+NDP-New Democratic Party,3691
+Independent,325
+People's Party - PPC,1473
+Liberal,21201
+Conservative,8866
+NDP-New Democratic Party,3708
+Independent,316
+REPORTING:Flamborough--Glanbrook
+Green Party,1403
+Conservative,24031
+NDP-New Democratic Party,9409
+People's Party - PPC,3685
+Liberal,21350
+Green Party,1254
+Conservative,24370
+NDP-New Democratic Party,9409
+People's Party - PPC,3686
+Liberal,21350
+REPORTING:Glengarry--Prescott--Russell
+People's Party - PPC,4477
+Free Party Canada,429
+Liberal,30564
+Independent,315
+Green Party,1357
+NDP-New Democratic Party,7100
+Conservative,22133
+People's Party - PPC,4458
+Free Party Canada,422
+Liberal,30362
+Independent,314
+Green Party,1350
+NDP-New Democratic Party,7022
+Conservative,21979
+REPORTING:Guelph
+Green Party,5250
+Communist,187
+NDP-New Democratic Party,14716
+People's Party - PPC,3182
+Animal Protection Party,262
+Liberal,29376
+Conservative,16796
+Green Party,5250
+Communist,187
+NDP-New Democratic Party,14713
+People's Party - PPC,3182
+Animal Protection Party,262
+Liberal,29382
+Conservative,16795
+REPORTING:Haldimand--Norfolk
+People's Party - PPC,6570
+Conservative,29586
+Christian Heritage Party,559
+Liberal,17208
+VCP,262
+NDP-New Democratic Party,8320
+People's Party - PPC,6570
+Conservative,29664
+Christian Heritage Party,559
+Liberal,17224
+VCP,255
+NDP-New Democratic Party,8320
+REPORTING:Haliburton--Kawartha Lakes--Brock
+Libertarian,463
+People's Party - PPC,4769
+Liberal,15645
+Green Party,1699
+NDP-New Democratic Party,9730
+Conservative,35418
+Libertarian,463
+People's Party - PPC,4769
+Liberal,15645
+Green Party,1696
+NDP-New Democratic Party,9730
+Conservative,35418
+REPORTING:Hamilton Centre
+People's Party - PPC,2704
+Liberal,11010
+Communist,217
+NDP-New Democratic Party,20139
+Conservative,6317
+Green Party,1129
+Independent,100
+People's Party - PPC,2637
+Liberal,10941
+Communist,184
+NDP-New Democratic Party,20105
+Conservative,6209
+Green Party,1105
+Independent,99
+REPORTING:Hamilton East--Stoney Creek
+Liberal,18377
+Conservative,13988
+NDP-New Democratic Party,12653
+Green Party,1018
+People's Party - PPC,3694
+Liberal,18358
+Conservative,13934
+NDP-New Democratic Party,12748
+Green Party,1020
+People's Party - PPC,3733
+REPORTING:Hamilton Mountain
+NDP-New Democratic Party,15712
+Christian Heritage Party,336
+Liberal,16547
+Conservative,11838
+People's Party - PPC,3097
+Green Party,974
+NDP-New Democratic Party,15706
+Christian Heritage Party,306
+Liberal,16548
+Conservative,11828
+People's Party - PPC,3098
+Green Party,974
+REPORTING:Hamilton West--Ancaster--Dundas
+Green Party,1663
+NDP-New Democratic Party,12337
+Conservative,18122
+Parti Rhinocéros Party,137
+Liberal,27797
+People's Party - PPC,2592
+Green Party,1661
+NDP-New Democratic Party,12432
+Conservative,18162
+Parti Rhinocéros Party,137
+Liberal,27845
+People's Party - PPC,2584
+REPORTING:Hastings--Lennox and Addington
+People's Party - PPC,3131
+Liberal,19056
+NDP-New Democratic Party,6020
+Conservative,24653
+Independent,838
+Green Party,971
+People's Party - PPC,3131
+Liberal,19056
+NDP-New Democratic Party,6020
+Conservative,24651
+Independent,838
+Green Party,971
+REPORTING:Huron--Bruce
+NDP-New Democratic Party,9123
+Conservative,31591
+Liberal,16138
+Independent,523
+People's Party - PPC,4471
+NDP-New Democratic Party,9056
+Conservative,31170
+Liberal,16015
+Independent,519
+People's Party - PPC,4437
+REPORTING:Kanata--Carleton
+NDP-New Democratic Party,8822
+Conservative,24373
+People's Party - PPC,1858
+Green Party,1709
+Liberal,26394
+NDP-New Democratic Party,8822
+Conservative,24373
+People's Party - PPC,1858
+Green Party,1709
+Liberal,26394
+REPORTING:Kenora
+Liberal,5190
+People's Party - PPC,1625
+Conservative,11103
+Green Party,364
+NDP-New Democratic Party,7802
+Liberal,5190
+People's Party - PPC,1625
+Conservative,11103
+Green Party,364
+NDP-New Democratic Party,7801
+REPORTING:King--Vaughan
+Green Party,620
+NDP-New Democratic Party,3234
+People's Party - PPC,2139
+Conservative,22529
+Liberal,21457
+Green Party,620
+NDP-New Democratic Party,3234
+People's Party - PPC,2149
+Conservative,22534
+Liberal,21458
+REPORTING:Kingston and the Islands
+Liberal,27661
+Green Party,1651
+Conservative,15748
+NDP-New Democratic Party,19638
+People's Party - PPC,2303
+Liberal,27724
+Green Party,1673
+Conservative,16019
+NDP-New Democratic Party,19775
+People's Party - PPC,2314
+REPORTING:Kitchener Centre
+People's Party - PPC,3481
+Conservative,12535
+Green Party,17870
+Animal Protection Party,154
+Liberal,8297
+NDP-New Democratic Party,8938
+People's Party - PPC,3381
+Conservative,12537
+Green Party,17872
+Animal Protection Party,154
+Liberal,8297
+NDP-New Democratic Party,8938
+REPORTING:Kitchener--Conestoga
+Green Party,1842
+People's Party - PPC,3692
+Conservative,19447
+Liberal,19975
+NDP-New Democratic Party,5947
+Green Party,1842
+People's Party - PPC,3690
+Conservative,19448
+Liberal,20025
+NDP-New Democratic Party,5948
+REPORTING:Kitchener South--Hespeler
+NDP-New Democratic Party,8079
+Marxist-Leninist,57
+People's Party - PPC,3351
+Liberal,18596
+Conservative,17649
+Parti Rhinocéros Party,93
+Independent,119
+Green Party,1710
+NDP-New Democratic Party,8079
+Marxist-Leninist,57
+People's Party - PPC,3351
+Liberal,18596
+Conservative,17649
+Parti Rhinocéros Party,93
+Independent,119
+Green Party,1710
+REPORTING:Lambton--Kent--Middlesex
+NDP-New Democratic Party,11053
+Green Party,1035
+People's Party - PPC,6567
+Liberal,12522
+Conservative,29432
+NDP-New Democratic Party,11107
+Green Party,1035
+People's Party - PPC,6567
+Liberal,12552
+Conservative,29431
+REPORTING:Lanark--Frontenac--Kingston
+People's Party - PPC,3835
+Liberal,16626
+NDP-New Democratic Party,9825
+Parti Rhinocéros Party,212
+Green Party,1723
+Conservative,30695
+People's Party - PPC,3830
+Liberal,16617
+NDP-New Democratic Party,9828
+Parti Rhinocéros Party,211
+Green Party,1664
+Conservative,30761
+REPORTING:Leeds-Grenville-Thousand Islands and Rideau Lakes
+Liberal,14964
+Conservative,29947
+People's Party - PPC,3398
+Green Party,2135
+NDP-New Democratic Party,8779
+Liberal,14935
+Conservative,29950
+People's Party - PPC,3394
+Green Party,2134
+NDP-New Democratic Party,8863
+REPORTING:London--Fanshawe
+People's Party - PPC,4718
+Liberal,11881
+NDP-New Democratic Party,22340
+Conservative,12491
+People's Party - PPC,4718
+Liberal,11882
+NDP-New Democratic Party,22336
+Conservative,12486
+REPORTING:London North Centre
+People's Party - PPC,2902
+Liberal,22856
+Conservative,15881
+Green Party,1292
+NDP-New Democratic Party,15623
+People's Party - PPC,2902
+Liberal,22921
+Conservative,15889
+Green Party,1297
+NDP-New Democratic Party,15611
+REPORTING:London West
+Libertarian,822
+Conservative,22291
+Liberal,25247
+NDP-New Democratic Party,16763
+People's Party - PPC,3485
+Libertarian,773
+Conservative,22273
+Liberal,25308
+NDP-New Democratic Party,16858
+People's Party - PPC,3409
+REPORTING:Markham--Stouffville
+Green Party,975
+People's Party - PPC,1810
+Liberal,27997
+NDP-New Democratic Party,4674
+Conservative,19702
+Green Party,1049
+People's Party - PPC,1869
+Liberal,29773
+NDP-New Democratic Party,4961
+Conservative,20740
+REPORTING:Markham--Thornhill
+Conservative,10126
+Green Party,813
+Liberal,23699
+People's Party - PPC,645
+NDP-New Democratic Party,3222
+Conservative,10136
+Green Party,813
+Liberal,23709
+People's Party - PPC,648
+NDP-New Democratic Party,3222
+REPORTING:Markham--Unionville
+Liberal,21912
+Green Party,1246
+NDP-New Democratic Party,3000
+Conservative,18993
+Liberal,21958
+Green Party,1306
+NDP-New Democratic Party,3001
+Conservative,18959
+REPORTING:Milton
+Conservative,18297
+People's Party - PPC,2365
+Green Party,1280
+NDP-New Democratic Party,4925
+Liberal,29011
+Conservative,18313
+People's Party - PPC,2365
+Green Party,1280
+NDP-New Democratic Party,4925
+Liberal,28503
+REPORTING:Mississauga Centre
+Liberal,25714
+People's Party - PPC,2148
+Green Party,864
+NDP-New Democratic Party,5330
+Conservative,13390
+Liberal,25719
+People's Party - PPC,2128
+Green Party,863
+NDP-New Democratic Party,5331
+Conservative,13390
+REPORTING:Mississauga East--Cooksville
+Conservative,14739
+Independent,339
+Liberal,22781
+Marxist-Leninist,312
+NDP-New Democratic Party,4670
+People's Party - PPC,2937
+Conservative,14722
+Independent,329
+Liberal,22806
+Marxist-Leninist,107
+NDP-New Democratic Party,4678
+People's Party - PPC,2933
+REPORTING:Mississauga--Erin Mills
+People's Party - PPC,1713
+Green Party,825
+Liberal,25751
+Conservative,17094
+NDP-New Democratic Party,5294
+People's Party - PPC,1711
+Green Party,829
+Liberal,25866
+Conservative,17088
+NDP-New Democratic Party,5178
+REPORTING:Mississauga--Lakeshore
+Conservative,21751
+Green Party,1265
+People's Party - PPC,2361
+Liberal,25284
+Parti Rhinocéros Party,100
+NDP-New Democratic Party,5483
+Conservative,21761
+Green Party,1265
+People's Party - PPC,2367
+Liberal,25284
+Parti Rhinocéros Party,94
+NDP-New Democratic Party,5488
+REPORTING:Mississauga--Malton
+NDP-New Democratic Party,5761
+Marxist-Leninist,283
+Green Party,811
+Liberal,21766
+Conservative,12555
+NDP-New Democratic Party,5771
+Marxist-Leninist,275
+Green Party,811
+Liberal,21766
+Conservative,12625
+REPORTING:Mississauga--Streetsville
+NDP-New Democratic Party,6150
+Green Party,1079
+Conservative,17505
+Animal Protection Party,254
+Liberal,24645
+People's Party - PPC,2382
+NDP-New Democratic Party,6186
+Green Party,1048
+Conservative,17131
+Animal Protection Party,210
+Liberal,23698
+People's Party - PPC,1851
+REPORTING:Nepean
+Liberal,29620
+NDP-New Democratic Party,10786
+Green Party,1318
+People's Party - PPC,1840
+Conservative,22184
+Liberal,29620
+NDP-New Democratic Party,10786
+Green Party,1318
+People's Party - PPC,1840
+Conservative,22184
+REPORTING:Newmarket--Aurora
+Independent,260
+Green Party,1015
+People's Party - PPC,2296
+NDP-New Democratic Party,6338
+Conservative,21173
+Liberal,24138
+Independent,260
+Green Party,1015
+People's Party - PPC,2296
+NDP-New Democratic Party,6338
+Conservative,21173
+Liberal,24208
+REPORTING:Niagara Centre
+Liberal,20574
+People's Party - PPC,4670
+Green Party,1143
+NDP-New Democratic Party,14098
+Conservative,18324
+Liberal,20576
+People's Party - PPC,4670
+Green Party,1123
+NDP-New Democratic Party,14086
+Conservative,18324
+REPORTING:Niagara Falls
+Conservative,26810
+NDP-New Democratic Party,12871
+Green Party,1380
+Liberal,23650
+People's Party - PPC,5951
+Conservative,26810
+NDP-New Democratic Party,12871
+Green Party,1370
+Liberal,23650
+People's Party - PPC,5948
+REPORTING:Niagara West
+Conservative,25276
+Liberal,16813
+People's Party - PPC,3937
+Christian Heritage Party,667
+Green Party,1604
+NDP-New Democratic Party,7054
+Conservative,25206
+Liberal,16815
+People's Party - PPC,3933
+Christian Heritage Party,657
+Green Party,1602
+NDP-New Democratic Party,7064
+REPORTING:Nickel Belt
+NDP-New Democratic Party,13597
+Green Party,864
+People's Party - PPC,4549
+Conservative,13430
+Liberal,17358
+NDP-New Democratic Party,13137
+Green Party,848
+People's Party - PPC,4558
+Conservative,13425
+Liberal,17353
+REPORTING:Nipissing--Timiskaming
+People's Party - PPC,3504
+NDP-New Democratic Party,10573
+Liberal,18047
+Conservative,15086
+People's Party - PPC,3494
+NDP-New Democratic Party,10493
+Liberal,18405
+Conservative,15104
+REPORTING:Northumberland--Peterborough South
+People's Party - PPC,3785
+Conservative,30839
+Liberal,23136
+NDP-New Democratic Party,9760
+Green Party,1765
+People's Party - PPC,3813
+Conservative,31015
+Liberal,23336
+NDP-New Democratic Party,9809
+Green Party,1764
+REPORTING:Oakville
+NDP-New Democratic Party,5377
+Liberal,28126
+Conservative,24020
+Green Party,1090
+People's Party - PPC,1970
+NDP-New Democratic Party,5373
+Liberal,28137
+Conservative,24430
+Green Party,1090
+People's Party - PPC,1970
+REPORTING:Oakville North--Burlington
+Liberal,30851
+NDP-New Democratic Party,6602
+People's Party - PPC,2409
+Conservative,25074
+Green Party,1012
+Liberal,30910
+NDP-New Democratic Party,6574
+People's Party - PPC,2429
+Conservative,25091
+Green Party,1019
+REPORTING:Oshawa
+Conservative,22409
+Liberal,12866
+People's Party - PPC,3985
+Green Party,1110
+NDP-New Democratic Party,16057
+Conservative,22409
+Liberal,13044
+People's Party - PPC,4029
+Green Party,864
+NDP-New Democratic Party,16079
+REPORTING:Ottawa Centre
+Animal Protection Party,290
+Conservative,11626
+Independent,185
+Green Party,2184
+NDP-New Democratic Party,24544
+Communist,202
+Liberal,33836
+People's Party - PPC,1616
+Animal Protection Party,261
+Conservative,11650
+Independent,132
+Green Party,2115
+NDP-New Democratic Party,24552
+Communist,201
+Liberal,33825
+People's Party - PPC,1605
+REPORTING:Orléans
+Free Party Canada,220
+Green Party,1233
+NDP-New Democratic Party,10983
+Liberal,39101
+People's Party - PPC,2046
+Conservative,21700
+Free Party Canada,220
+Green Party,1233
+NDP-New Democratic Party,10983
+Liberal,39101
+People's Party - PPC,2046
+Conservative,21700
+REPORTING:Ottawa South
+People's Party - PPC,1887
+Liberal,29038
+NDP-New Democratic Party,11506
+Green Party,1401
+Conservative,15505
+Communist,144
+People's Party - PPC,1898
+Liberal,29038
+NDP-New Democratic Party,11514
+Green Party,1401
+Conservative,15497
+Communist,144
+REPORTING:Ottawa--Vanier
+Free Party Canada,190
+People's Party - PPC,1860
+Libertarian,268
+Liberal,28513
+NDP-New Democratic Party,13757
+Conservative,11599
+Independent,165
+Green Party,1816
+Free Party Canada,179
+People's Party - PPC,1855
+Libertarian,248
+Liberal,28462
+NDP-New Democratic Party,13703
+Conservative,11611
+Independent,157
+Green Party,1816
+REPORTING:Ottawa West--Nepean
+NDP-New Democratic Party,11101
+Conservative,16356
+Christian Heritage Party,330
+Green Party,1631
+Liberal,25796
+People's Party - PPC,1915
+NDP-New Democratic Party,11163
+Conservative,16473
+Christian Heritage Party,327
+Green Party,1642
+Liberal,25889
+People's Party - PPC,1908
+REPORTING:Oxford
+NDP-New Democratic Party,11231
+Conservative,29034
+People's Party - PPC,6619
+Liberal,12563
+Green Party,1668
+Christian Heritage Party,478
+NDP-New Democratic Party,11325
+Conservative,29146
+People's Party - PPC,6595
+Liberal,12720
+Green Party,1683
+Christian Heritage Party,479
+REPORTING:Parkdale--High Park
+People's Party - PPC,1642
+Marxist-Leninist,90
+Green Party,957
+Marijuana Party,130
+Conservative,6815
+NDP-New Democratic Party,20602
+Liberal,22307
+People's Party - PPC,1642
+Marxist-Leninist,90
+Green Party,957
+Marijuana Party,130
+Conservative,6815
+NDP-New Democratic Party,20602
+Liberal,22307
+REPORTING:Parry Sound--Muskoka
+Conservative,26603
+National Citizens Alliance,95
+NDP-New Democratic Party,9374
+Green Party,3099
+Liberal,11980
+Independent,203
+People's Party - PPC,4184
+Conservative,26600
+National Citizens Alliance,95
+NDP-New Democratic Party,9339
+Green Party,3099
+Liberal,12014
+Independent,169
+People's Party - PPC,4184
+REPORTING:Perth--Wellington
+People's Party - PPC,5357
+Liberal,13784
+NDP-New Democratic Party,9552
+Conservative,27004
+People's Party - PPC,5357
+Liberal,13684
+NDP-New Democratic Party,9552
+Conservative,26984
+REPORTING:Peterborough--Kawartha
+Independent,226
+Conservative,27301
+NDP-New Democratic Party,13335
+People's Party - PPC,3078
+Liberal,24564
+Green Party,1551
+Independent,218
+Conservative,27402
+NDP-New Democratic Party,13302
+People's Party - PPC,3073
+Liberal,24664
+Green Party,1553
+REPORTING:Pickering--Uxbridge
+People's Party - PPC,2327
+NDP-New Democratic Party,7545
+Conservative,20976
+Liberal,27178
+People's Party - PPC,2328
+NDP-New Democratic Party,7592
+Conservative,20976
+Liberal,27271
+REPORTING:Renfrew--Nipissing--Pembroke
+People's Party - PPC,4469
+Conservative,28967
+Independent,379
+Green Party,1109
+Liberal,11289
+NDP-New Democratic Party,12243
+People's Party - PPC,4469
+Conservative,28967
+Independent,373
+Green Party,1111
+Liberal,11335
+NDP-New Democratic Party,12263
+REPORTING:Richmond Hill
+NDP-New Democratic Party,3995
+Independent,619
+Liberal,21784
+Independent,186
+Conservative,17715
+People's Party - PPC,1363
+NDP-New Democratic Party,3995
+Independent,619
+Liberal,21784
+Independent,186
+Conservative,17715
+People's Party - PPC,1363
+REPORTING:Carleton
+People's Party - PPC,1728
+Green Party,1327
+NDP-New Democratic Party,8164
+Conservative,35356
+Liberal,24298
+People's Party - PPC,1728
+Green Party,1327
+NDP-New Democratic Party,8164
+Conservative,35356
+Liberal,24298
+REPORTING:St. Catharines
+Liberal,22071
+People's Party - PPC,3860
+NDP-New Democratic Party,12294
+Green Party,1091
+Conservative,19048
+Liberal,22069
+People's Party - PPC,3860
+NDP-New Democratic Party,12294
+Green Party,1091
+Conservative,19018
+REPORTING:Toronto--St. Paul's
+Liberal,25943
+NDP-New Democratic Party,8836
+Green Party,3191
+Conservative,13377
+People's Party - PPC,1430
+Liberal,26429
+NDP-New Democratic Party,9036
+Green Party,3214
+Conservative,13587
+People's Party - PPC,1432
+REPORTING:Sarnia--Lambton
+Green Party,848
+People's Party - PPC,6359
+Conservative,26292
+NDP-New Democratic Party,11945
+Christian Heritage Party,478
+Liberal,10865
+Green Party,848
+People's Party - PPC,6359
+Conservative,26292
+NDP-New Democratic Party,11990
+Christian Heritage Party,435
+Liberal,10975
+REPORTING:Sault Ste. Marie
+People's Party - PPC,1943
+NDP-New Democratic Party,8043
+Liberal,15231
+Conservative,14984
+People's Party - PPC,1923
+NDP-New Democratic Party,8041
+Liberal,15231
+Conservative,14984
+REPORTING:Scarborough--Agincourt
+Green Party,631
+Conservative,10630
+NDP-New Democratic Party,3680
+People's Party - PPC,979
+Liberal,20682
+Green Party,631
+Conservative,10630
+NDP-New Democratic Party,3679
+People's Party - PPC,978
+Liberal,20712
+REPORTING:Scarborough Centre
+NDP-New Democratic Party,5472
+National Citizens Alliance,262
+Conservative,9789
+People's Party - PPC,1460
+Liberal,23124
+NDP-New Democratic Party,5479
+National Citizens Alliance,263
+Conservative,9819
+People's Party - PPC,1472
+Liberal,23128
+REPORTING:Scarborough--Guildwood
+People's Party - PPC,1096
+Independent,155
+Independent,85
+Centrist,129
+Liberal,22938
+NDP-New Democratic Party,5092
+Nationalist,52
+Conservative,7988
+People's Party - PPC,1096
+Independent,155
+Independent,85
+Centrist,129
+Liberal,22944
+NDP-New Democratic Party,5091
+Nationalist,52
+Conservative,7998
+REPORTING:Scarborough North
+Liberal,21178
+Centrist,361
+NDP-New Democratic Party,3514
+People's Party - PPC,763
+Conservative,7055
+Liberal,21178
+Centrist,361
+NDP-New Democratic Party,3514
+People's Party - PPC,763
+Conservative,5999
+REPORTING:Scarborough--Rouge Park
+Liberal,28703
+Conservative,9631
+NDP-New Democratic Party,6073
+People's Party - PPC,1316
+Liberal,28702
+Conservative,9628
+NDP-New Democratic Party,6068
+People's Party - PPC,1322
+REPORTING:Scarborough Southwest
+NDP-New Democratic Party,6924
+Conservative,8991
+Liberal,24823
+Green Party,1068
+People's Party - PPC,1259
+Independent,117
+NDP-New Democratic Party,6924
+Conservative,8981
+Liberal,24823
+Green Party,1068
+People's Party - PPC,1259
+Independent,117
+REPORTING:Simcoe--Grey
+Green Party,2933
+Conservative,35548
+NDP-New Democratic Party,10090
+People's Party - PPC,5534
+Liberal,21026
+Christian Heritage Party,383
+Green Party,2969
+Conservative,36249
+NDP-New Democratic Party,10140
+People's Party - PPC,5550
+Liberal,21320
+Christian Heritage Party,382
+REPORTING:Simcoe North
+Green Party,1903
+Conservative,27383
+NDP-New Democratic Party,9950
+Christian Heritage Party,210
+People's Party - PPC,4939
+Liberal,19302
+Green Party,1903
+Conservative,27383
+NDP-New Democratic Party,9958
+Christian Heritage Party,210
+People's Party - PPC,4822
+Liberal,19332
+REPORTING:Spadina--Fort York
+NDP-New Democratic Party,16833
+Conservative,9875
+People's Party - PPC,1476
+Green Party,1645
+Liberal,18991
+NDP-New Democratic Party,16834
+Conservative,9875
+People's Party - PPC,1476
+Green Party,1645
+Liberal,18991
+REPORTING:Stormont--Dundas--South Glengarry
+People's Party - PPC,3954
+Conservative,29276
+NDP-New Democratic Party,5839
+Liberal,12615
+Green Party,1230
+People's Party - PPC,3921
+Conservative,29255
+NDP-New Democratic Party,5804
+Liberal,12443
+Green Party,1230
+REPORTING:Sudbury
+Liberal,15871
+People's Party - PPC,2735
+Independent,111
+Green Party,967
+Conservative,12752
+NDP-New Democratic Party,13569
+Liberal,15871
+People's Party - PPC,2735
+Independent,111
+Green Party,940
+Conservative,12747
+NDP-New Democratic Party,13569
+REPORTING:Thornhill
+Liberal,18168
+People's Party - PPC,2322
+Conservative,25716
+Green Party,844
+NDP-New Democratic Party,3032
+Liberal,18168
+People's Party - PPC,2322
+Conservative,25687
+Green Party,844
+NDP-New Democratic Party,3041
+REPORTING:Thunder Bay--Rainy River
+People's Party - PPC,2636
+Green Party,571
+Conservative,11671
+Liberal,13660
+NDP-New Democratic Party,11353
+People's Party - PPC,2621
+Green Party,571
+Conservative,11671
+Liberal,13655
+NDP-New Democratic Party,11342
+REPORTING:Thunder Bay--Superior North
+NDP-New Democratic Party,11243
+People's Party - PPC,2464
+Liberal,16877
+Green Party,730
+Conservative,10035
+Libertarian,111
+NDP-New Democratic Party,11244
+People's Party - PPC,2465
+Liberal,16893
+Green Party,735
+Conservative,10035
+Libertarian,111
+REPORTING:Timmins--James Bay
+NDP-New Democratic Party,12132
+Liberal,8447
+Conservative,9449
+People's Party - PPC,4537
+NDP-New Democratic Party,12132
+Liberal,8508
+Conservative,9393
+People's Party - PPC,4537
+REPORTING:Toronto Centre
+Communist,181
+NDP-New Democratic Party,11919
+Liberal,23079
+People's Party - PPC,1119
+Conservative,5571
+Green Party,3921
+Animal Protection Party,116
+Communist,181
+NDP-New Democratic Party,11909
+Liberal,23071
+People's Party - PPC,1047
+Conservative,5571
+Green Party,3921
+Animal Protection Party,117
+REPORTING:Toronto--Danforth
+Conservative,6510
+Liberal,25213
+Independent,129
+NDP-New Democratic Party,17552
+Communist,215
+People's Party - PPC,1282
+Green Party,1023
+Animal Protection Party,184
+Conservative,6547
+Liberal,25214
+Independent,123
+NDP-New Democratic Party,17555
+Communist,215
+People's Party - PPC,1282
+Green Party,1023
+Animal Protection Party,183
+REPORTING:University--Rosedale
+Liberal,22050
+Communist,244
+Green Party,1927
+People's Party - PPC,1158
+NDP-New Democratic Party,11524
+Conservative,9415
+Liberal,22451
+Communist,244
+Green Party,1974
+People's Party - PPC,1172
+NDP-New Democratic Party,11921
+Conservative,9473
+REPORTING:Vaughan--Woodbridge
+NDP-New Democratic Party,3265
+People's Party - PPC,2567
+Green Party,453
+Independent,159
+Conservative,19019
+Liberal,21669
+NDP-New Democratic Party,3265
+People's Party - PPC,2567
+Green Party,453
+Independent,159
+Conservative,19019
+Liberal,21699
+REPORTING:Waterloo
+NDP-New Democratic Party,11359
+Liberal,26844
+People's Party - PPC,2806
+Conservative,16535
+Green Party,2042
+NDP-New Democratic Party,11360
+Liberal,26926
+People's Party - PPC,2802
+Conservative,16528
+Green Party,2038
+REPORTING:Wellington--Halton Hills
+People's Party - PPC,4355
+Conservative,35337
+NDP-New Democratic Party,7051
+Liberal,18314
+Green Party,2614
+People's Party - PPC,4359
+Conservative,35257
+NDP-New Democratic Party,7050
+Liberal,18384
+Green Party,2606
+REPORTING:Whitby
+People's Party - PPC,2720
+NDP-New Democratic Party,8787
+Green Party,988
+Conservative,22151
+Liberal,27173
+People's Party - PPC,2682
+NDP-New Democratic Party,8766
+Green Party,972
+Conservative,22271
+Liberal,27375
+REPORTING:Willowdale
+NDP-New Democratic Party,4217
+Liberal,20973
+Green Party,812
+Conservative,13900
+People's Party - PPC,1099
+NDP-New Democratic Party,4231
+Liberal,21043
+Green Party,812
+Conservative,13916
+People's Party - PPC,1102
+REPORTING:Windsor--Tecumseh
+Conservative,14603
+Marxist-Leninist,164
+People's Party - PPC,5928
+NDP-New Democratic Party,17459
+Liberal,18134
+Green Party,681
+Conservative,14605
+Marxist-Leninist,164
+People's Party - PPC,5927
+NDP-New Democratic Party,17465
+Liberal,18134
+Green Party,682
+REPORTING:Windsor West
+People's Party - PPC,4080
+NDP-New Democratic Party,21702
+Conservative,9436
+Liberal,13670
+Marxist-Leninist,156
+People's Party - PPC,4060
+NDP-New Democratic Party,21541
+Conservative,9415
+Liberal,13524
+Marxist-Leninist,153
+REPORTING:York Centre
+NDP-New Democratic Party,3753
+Conservative,13898
+People's Party - PPC,1751
+Liberal,17421
+NDP-New Democratic Party,3753
+Conservative,13949
+People's Party - PPC,1726
+Liberal,17430
+REPORTING:York--Simcoe
+Conservative,23890
+NDP-New Democratic Party,6890
+Liberal,13856
+People's Party - PPC,3552
+Conservative,24900
+NDP-New Democratic Party,6800
+Liberal,14469
+People's Party - PPC,3662
+REPORTING:York South--Weston
+People's Party - PPC,1822
+Liberal,21579
+NDP-New Democratic Party,6543
+Conservative,7741
+Green Party,878
+People's Party - PPC,1754
+Liberal,21644
+NDP-New Democratic Party,6517
+Conservative,7783
+Green Party,872
+REPORTING:Humber River--Black Creek
+People's Party - PPC,1235
+Marxist-Leninist,125
+Liberal,18833
+Conservative,5402
+Green Party,368
+NDP-New Democratic Party,5066
+People's Party - PPC,1258
+Marxist-Leninist,130
+Liberal,19533
+Conservative,5599
+Green Party,388
+NDP-New Democratic Party,5279
+REPORTING:Brandon--Souris
+People's Party - PPC,2981
+Liberal,4608
+NDP-New Democratic Party,7840
+Conservative,22733
+People's Party - PPC,2981
+Liberal,4608
+NDP-New Democratic Party,7838
+Conservative,22733
+REPORTING:Charleswood--St. James--Assiniboia--Headingley
+NDP-New Democratic Party,7171
+Liberal,17312
+Conservative,17336
+Green Party,935
+People's Party - PPC,1573
+NDP-New Democratic Party,6974
+Liberal,17651
+Conservative,18111
+Green Party,947
+People's Party - PPC,1594
+REPORTING:Churchill--Keewatinook Aski
+NDP-New Democratic Party,7639
+Conservative,4330
+Green Party,552
+Liberal,4513
+People's Party - PPC,900
+NDP-New Democratic Party,7632
+Conservative,4330
+Green Party,552
+Liberal,4514
+People's Party - PPC,899
+REPORTING:Dauphin--Swan River--Neepawa
+Liberal,4797
+Maverick Party,407
+NDP-New Democratic Party,5688
+Green Party,845
+Conservative,22717
+People's Party - PPC,4050
+Liberal,4892
+Maverick Party,339
+NDP-New Democratic Party,5678
+Green Party,835
+Conservative,22718
+People's Party - PPC,4052
+REPORTING:Elmwood--Transcona
+NDP-New Democratic Party,20791
+Conservative,11768
+People's Party - PPC,2435
+Green Party,676
+Liberal,6169
+NDP-New Democratic Party,20791
+Conservative,11768
+People's Party - PPC,2435
+Green Party,676
+Liberal,6169
+REPORTING:Kildonan--St. Paul
+Liberal,12944
+NDP-New Democratic Party,10309
+Conservative,18375
+People's Party - PPC,2325
+Liberal,12934
+NDP-New Democratic Party,10313
+Conservative,18375
+People's Party - PPC,2325
+REPORTING:Portage--Lisgar
+Conservative,23819
+Liberal,4967
+Christian Heritage Party,712
+NDP-New Democratic Party,6094
+People's Party - PPC,9790
+Conservative,23819
+Liberal,4967
+Christian Heritage Party,712
+NDP-New Democratic Party,6068
+People's Party - PPC,9790
+REPORTING:Provencher
+Conservative,24294
+People's Party - PPC,8168
+Green Party,1272
+Liberal,8472
+Independent,1366
+NDP-New Democratic Party,6270
+Conservative,24294
+People's Party - PPC,8227
+Green Party,1273
+Liberal,8471
+Independent,1366
+NDP-New Democratic Party,6270
+REPORTING:Saint Boniface--Saint Vital
+Conservative,13091
+Independent,57
+Independent,19
+Independent,21
+Parti Rhinocéros Party,80
+VCP,16
+Independent,27
+Independent,24
+Independent,12
+Independent,13
+Independent,13
+Independent,33
+Independent,14
+Independent,7
+People's Party - PPC,1976
+Green Party,658
+Independent,13
+Independent,19
+Independent,15
+Liberal,19696
+NDP-New Democratic Party,10001
+Conservative,12749
+Independent,58
+Independent,16
+Independent,24
+Parti Rhinocéros Party,80
+VCP,17
+Independent,31
+Independent,25
+Independent,11
+Independent,14
+Independent,14
+Independent,31
+Independent,14
+Independent,7
+People's Party - PPC,1978
+Green Party,676
+Independent,13
+Independent,21
+Independent,15
+Liberal,19908
+NDP-New Democratic Party,9767
+REPORTING:Selkirk--Interlake--Eastman
+Conservative,28311
+Green Party,1328
+People's Party - PPC,3807
+Liberal,6563
+NDP-New Democratic Party,9603
+Conservative,28308
+Green Party,1328
+People's Party - PPC,3800
+Liberal,6567
+NDP-New Democratic Party,9604
+REPORTING:Winnipeg Centre
+People's Party - PPC,1229
+Conservative,3818
+Green Party,713
+Libertarian,373
+NDP-New Democratic Party,14761
+Liberal,8446
+Animal Protection Party,214
+People's Party - PPC,1229
+Conservative,3818
+Green Party,708
+Libertarian,373
+NDP-New Democratic Party,14962
+Liberal,8446
+Animal Protection Party,213
+REPORTING:Winnipeg North
+Green Party,428
+NDP-New Democratic Party,8998
+Communist,109
+Conservative,4098
+Liberal,16375
+People's Party - PPC,1395
+Green Party,418
+NDP-New Democratic Party,8998
+Communist,109
+Conservative,4126
+Liberal,16442
+People's Party - PPC,1315
+REPORTING:Winnipeg South
+Green Party,680
+Liberal,22422
+People's Party - PPC,1622
+NDP-New Democratic Party,6601
+Conservative,15912
+Green Party,681
+Liberal,22423
+People's Party - PPC,1542
+NDP-New Democratic Party,6632
+Conservative,15967
+REPORTING:Winnipeg South Centre
+Conservative,13566
+Liberal,22214
+Green Party,1431
+NDP-New Democratic Party,10064
+Communist,234
+People's Party - PPC,1352
+Conservative,13566
+Liberal,22214
+Green Party,1341
+NDP-New Democratic Party,10064
+Communist,234
+People's Party - PPC,1352
+REPORTING:Battlefords--Lloydminster
+Conservative,21511
+NDP-New Democratic Party,3762
+Liberal,1779
+Maverick Party,2186
+People's Party - PPC,1859
+Green Party,239
+Conservative,21336
+NDP-New Democratic Party,3718
+Liberal,1748
+Maverick Party,2162
+People's Party - PPC,1847
+Green Party,237
+REPORTING:Cypress Hills--Grasslands
+Liberal,1402
+People's Party - PPC,2808
+Independent,187
+NDP-New Democratic Party,3390
+Conservative,23890
+Maverick Party,1286
+Green Party,273
+Liberal,1492
+People's Party - PPC,2826
+Independent,193
+NDP-New Democratic Party,3604
+Conservative,24518
+Maverick Party,1360
+Green Party,284
+REPORTING:Desnethé--Missinippi--Churchill River
+Liberal,5533
+Green Party,215
+NDP-New Democratic Party,3628
+Independent,240
+People's Party - PPC,1002
+Conservative,10036
+Liberal,5533
+Green Party,215
+NDP-New Democratic Party,3548
+Independent,240
+People's Party - PPC,1002
+Conservative,10036
+REPORTING:Carlton Trail--Eagle Creek
+Liberal,2063
+Conservative,28068
+People's Party - PPC,3886
+NDP-New Democratic Party,5626
+Maverick Party,1056
+Green Party,384
+Liberal,2066
+Conservative,28192
+People's Party - PPC,3791
+NDP-New Democratic Party,5608
+Maverick Party,1053
+Green Party,379
+REPORTING:Moose Jaw--Lake Centre--Lanigan
+People's Party - PPC,4712
+Green Party,438
+NDP-New Democratic Party,7975
+Conservative,24869
+Maverick Party,664
+Liberal,2526
+People's Party - PPC,4712
+Green Party,438
+NDP-New Democratic Party,7975
+Conservative,24869
+Maverick Party,664
+Liberal,2526
+REPORTING:Prince Albert
+Green Party,364
+Liberal,3653
+Conservative,22340
+NDP-New Democratic Party,5214
+People's Party - PPC,2438
+Maverick Party,466
+Green Party,364
+Liberal,3653
+Conservative,22340
+NDP-New Democratic Party,5214
+People's Party - PPC,2388
+Maverick Party,466
+REPORTING:Regina--Lewvan
+Liberal,6301
+NDP-New Democratic Party,15719
+People's Party - PPC,1635
+Conservative,21376
+Green Party,560
+Liberal,6310
+NDP-New Democratic Party,15763
+People's Party - PPC,1635
+Conservative,21375
+Green Party,560
+REPORTING:Regina--Qu'Appelle
+NDP-New Democratic Party,6883
+Green Party,701
+Liberal,3324
+Conservative,20400
+People's Party - PPC,1678
+NDP-New Democratic Party,6879
+Green Party,668
+Liberal,3344
+Conservative,20400
+People's Party - PPC,1668
+REPORTING:Regina--Wascana
+NDP-New Democratic Party,6981
+Conservative,19247
+Green Party,632
+Liberal,10390
+People's Party - PPC,1352
+NDP-New Democratic Party,6975
+Conservative,19261
+Green Party,622
+Liberal,10390
+People's Party - PPC,1352
+REPORTING:Saskatoon--Grasswood
+People's Party - PPC,2111
+NDP-New Democratic Party,13731
+Liberal,6482
+Green Party,556
+Conservative,22842
+People's Party - PPC,2108
+NDP-New Democratic Party,13720
+Liberal,6460
+Green Party,556
+Conservative,22760
+REPORTING:Saskatoon--University
+NDP-New Democratic Party,15042
+Liberal,4608
+Communist,100
+Green Party,400
+People's Party - PPC,1778
+Conservative,20384
+Christian Heritage Party,195
+NDP-New Democratic Party,15042
+Liberal,4608
+Communist,100
+Green Party,405
+People's Party - PPC,1778
+Conservative,20389
+Christian Heritage Party,195
+REPORTING:Saskatoon West
+People's Party - PPC,2064
+NDP-New Democratic Party,13268
+Green Party,357
+Liberal,2778
+Conservative,15379
+People's Party - PPC,2064
+NDP-New Democratic Party,13328
+Green Party,357
+Liberal,2778
+Conservative,15379
+REPORTING:Souris--Moose Mountain
+Liberal,1663
+Maverick Party,991
+NDP-New Democratic Party,3155
+Conservative,30200
+People's Party - PPC,3594
+Liberal,1636
+Maverick Party,977
+NDP-New Democratic Party,3107
+Conservative,30049
+People's Party - PPC,3571
+REPORTING:Yorkton--Melville
+Liberal,2183
+Green Party,615
+Maverick Party,601
+People's Party - PPC,3247
+NDP-New Democratic Party,4237
+Conservative,23850
+Liberal,2187
+Green Party,614
+Maverick Party,597
+People's Party - PPC,3227
+NDP-New Democratic Party,4239
+Conservative,23794
+REPORTING:Banff--Airdrie
+Green Party,1405
+Maverick Party,1475
+Liberal,9472
+Independent,489
+Conservative,43677
+No Affiliation,2015
+Independent,65
+People's Party - PPC,5816
+NDP-New Democratic Party,12462
+Green Party,1405
+Maverick Party,1475
+Liberal,9572
+Independent,489
+Conservative,43677
+No Affiliation,2020
+Independent,60
+People's Party - PPC,5808
+NDP-New Democratic Party,12482
+REPORTING:Battle River--Crowfoot
+Green Party,565
+Maverick Party,2395
+VCP,178
+Conservative,41805
+Liberal,2527
+NDP-New Democratic Party,5743
+People's Party - PPC,5426
+Green Party,554
+Maverick Party,2393
+VCP,178
+Conservative,41819
+Liberal,2515
+NDP-New Democratic Party,5761
+People's Party - PPC,5440
+REPORTING:Bow River
+Maverick Party,1362
+People's Party - PPC,5097
+Christian Heritage Party,391
+NDP-New Democratic Party,4726
+Liberal,3928
+Conservative,35435
+Maverick Party,1368
+People's Party - PPC,5108
+Christian Heritage Party,391
+NDP-New Democratic Party,4726
+Liberal,3869
+Conservative,35676
+REPORTING:Calgary Centre
+NDP-New Democratic Party,9615
+Liberal,17593
+Conservative,30404
+Green Party,965
+Christian Heritage Party,575
+NDP-New Democratic Party,9694
+Liberal,17593
+Conservative,30375
+Green Party,971
+Christian Heritage Party,575
+REPORTING:Calgary Confederation
+NDP-New Democratic Party,10559
+People's Party - PPC,2672
+Marxist-Leninist,178
+Green Party,2297
+Liberal,17574
+Conservative,28295
+NDP-New Democratic Party,10561
+People's Party - PPC,2670
+Marxist-Leninist,178
+Green Party,2295
+Liberal,17560
+Conservative,28367
+REPORTING:Calgary Forest Lawn
+NDP-New Democratic Party,6254
+Conservative,15389
+People's Party - PPC,2518
+Green Party,699
+Liberal,9608
+Communist,185
+NDP-New Democratic Party,6254
+Conservative,15434
+People's Party - PPC,2468
+Green Party,699
+Liberal,9608
+Communist,185
+REPORTING:Calgary Heritage
+People's Party - PPC,2682
+Conservative,30870
+Parti Rhinocéros Party,265
+Liberal,8969
+Maverick Party,714
+NDP-New Democratic Party,9281
+Green Party,766
+People's Party - PPC,2682
+Conservative,30870
+Parti Rhinocéros Party,230
+Liberal,8960
+Maverick Party,714
+NDP-New Democratic Party,9320
+Green Party,766
+REPORTING:Calgary Midnapore
+NDP-New Democratic Party,11826
+People's Party - PPC,3930
+Conservative,39147
+Maverick Party,812
+Green Party,868
+Liberal,7947
+NDP-New Democratic Party,11826
+People's Party - PPC,3930
+Conservative,39147
+Maverick Party,812
+Green Party,868
+Liberal,7947
+REPORTING:Calgary Nose Hill
+NDP-New Democratic Party,8500
+Marxist-Leninist,105
+Liberal,10311
+National Citizens Alliance,65
+Green Party,636
+Christian Heritage Party,169
+Conservative,28001
+People's Party - PPC,2324
+Parti Rhinocéros Party,285
+NDP-New Democratic Party,8500
+Marxist-Leninist,105
+Liberal,10311
+National Citizens Alliance,62
+Green Party,636
+Christian Heritage Party,169
+Conservative,28001
+People's Party - PPC,2324
+Parti Rhinocéros Party,285
+REPORTING:Calgary Rocky Ridge
+Conservative,36034
+NDP-New Democratic Party,10748
+People's Party - PPC,3002
+Liberal,14673
+Maverick Party,554
+Green Party,1052
+Conservative,36034
+NDP-New Democratic Party,10748
+People's Party - PPC,3003
+Liberal,14693
+Maverick Party,554
+Green Party,1052
+REPORTING:Calgary Shepard
+National Citizens Alliance,77
+NDP-New Democratic Party,12078
+Conservative,44363
+Maverick Party,902
+Liberal,10295
+Independent,228
+Green Party,1320
+People's Party - PPC,4284
+National Citizens Alliance,56
+NDP-New Democratic Party,12103
+Conservative,44411
+Maverick Party,874
+Liberal,10303
+Independent,228
+Green Party,1300
+People's Party - PPC,4284
+REPORTING:Calgary Signal Hill
+Maverick Party,568
+Green Party,1094
+People's Party - PPC,2859
+Liberal,11706
+NDP-New Democratic Party,8863
+Conservative,35063
+Maverick Party,568
+Green Party,1094
+People's Party - PPC,2859
+Liberal,11106
+NDP-New Democratic Party,8863
+Conservative,35217
+REPORTING:Calgary Skyview
+Independent,184
+Marxist-Leninist,111
+Liberal,20092
+People's Party - PPC,1720
+NDP-New Democratic Party,7690
+Centrist,93
+Conservative,16768
+Green Party,431
+Independent,184
+Marxist-Leninist,111
+Liberal,20092
+People's Party - PPC,1720
+NDP-New Democratic Party,7690
+Centrist,93
+Conservative,17111
+Green Party,432
+REPORTING:Edmonton Centre
+Liberal,16561
+People's Party - PPC,2094
+Conservative,15945
+Marxist-Leninist,112
+Libertarian,265
+NDP-New Democratic Party,14141
+Liberal,16560
+People's Party - PPC,2094
+Conservative,15945
+Marxist-Leninist,112
+Libertarian,266
+NDP-New Democratic Party,14171
+REPORTING:Edmonton Griesbach
+Communist,140
+NDP-New Democratic Party,17437
+Conservative,15969
+Marxist-Leninist,102
+Green Party,540
+People's Party - PPC,2632
+Liberal,5988
+Libertarian,274
+Communist,140
+NDP-New Democratic Party,17457
+Conservative,15957
+Marxist-Leninist,103
+Green Party,538
+People's Party - PPC,2617
+Liberal,5979
+Libertarian,268
+REPORTING:Edmonton Manning
+Conservative,20218
+People's Party - PPC,3407
+Liberal,10468
+NDP-New Democratic Party,14999
+Marxist-Leninist,133
+Conservative,20219
+People's Party - PPC,3407
+Liberal,10468
+NDP-New Democratic Party,14999
+Marxist-Leninist,133
+REPORTING:Edmonton Mill Woods
+Liberal,16499
+NDP-New Democratic Party,10615
+People's Party - PPC,2967
+Communist,183
+Conservative,18248
+Liberal,16499
+NDP-New Democratic Party,10553
+People's Party - PPC,2898
+Communist,172
+Conservative,18392
+REPORTING:Edmonton Riverbend
+Liberal,14213
+NDP-New Democratic Party,14154
+Green Party,761
+Conservative,25702
+People's Party - PPC,2142
+Liberal,14169
+NDP-New Democratic Party,14154
+Green Party,761
+Conservative,25702
+People's Party - PPC,2142
+REPORTING:Edmonton Strathcona
+Green Party,674
+People's Party - PPC,2356
+NDP-New Democratic Party,31700
+Liberal,3948
+Conservative,13300
+Libertarian,275
+Green Party,634
+People's Party - PPC,2366
+NDP-New Democratic Party,31690
+Liberal,3948
+Conservative,13310
+Libertarian,275
+REPORTING:Edmonton West
+Liberal,13016
+NDP-New Democratic Party,14190
+People's Party - PPC,3354
+Conservative,25278
+Marxist-Leninist,151
+Liberal,13016
+NDP-New Democratic Party,14190
+People's Party - PPC,3354
+Conservative,25278
+Marxist-Leninist,151
+REPORTING:Edmonton--Wetaskiwin
+People's Party - PPC,7666
+VCP,345
+NDP-New Democratic Party,18222
+Conservative,48285
+Liberal,12190
+People's Party - PPC,7670
+VCP,345
+NDP-New Democratic Party,18259
+Conservative,48340
+Liberal,12229
+REPORTING:Foothills
+Conservative,44356
+People's Party - PPC,5111
+Green Party,802
+Liberal,4441
+NDP-New Democratic Party,7116
+Maverick Party,2289
+Conservative,44456
+People's Party - PPC,5111
+Green Party,802
+Liberal,4441
+NDP-New Democratic Party,7117
+Maverick Party,2289
+REPORTING:Fort McMurray--Cold Lake
+Liberal,3060
+Green Party,429
+Conservative,28806
+People's Party - PPC,5475
+Maverick Party,485
+NDP-New Democratic Party,4427
+VCP,95
+Liberal,3060
+Green Party,423
+Conservative,29242
+People's Party - PPC,5481
+Maverick Party,479
+NDP-New Democratic Party,4377
+VCP,88
+REPORTING:Grande Prairie--Mackenzie
+Liberal,2429
+Parti Rhinocéros Party,324
+People's Party - PPC,5411
+Maverick Party,2194
+NDP-New Democratic Party,6462
+Conservative,36360
+Liberal,2397
+Parti Rhinocéros Party,314
+People's Party - PPC,5411
+Maverick Party,2195
+NDP-New Democratic Party,6462
+Conservative,36361
+REPORTING:Lakeland
+NDP-New Democratic Party,5705
+Green Party,474
+People's Party - PPC,5823
+Maverick Party,1687
+Conservative,36541
+Liberal,2616
+NDP-New Democratic Party,5519
+Green Party,464
+People's Party - PPC,5827
+Maverick Party,1674
+Conservative,36557
+Liberal,2610
+REPORTING:Lethbridge
+Christian Heritage Party,566
+Conservative,33038
+Liberal,8928
+People's Party - PPC,4197
+NDP-New Democratic Party,11386
+Independent,1176
+Christian Heritage Party,566
+Conservative,32817
+Liberal,8928
+People's Party - PPC,4097
+NDP-New Democratic Party,11386
+Independent,1179
+REPORTING:Medicine Hat--Cardston--Warner
+Green Party,719
+People's Party - PPC,4495
+Conservative,31639
+Maverick Party,1222
+NDP-New Democratic Party,6787
+Liberal,3496
+Green Party,725
+People's Party - PPC,4484
+Conservative,31648
+Maverick Party,1226
+NDP-New Democratic Party,6816
+Liberal,3515
+REPORTING:Peace River--Westlock
+People's Party - PPC,6021
+Maverick Party,2587
+Green Party,375
+Liberal,2423
+NDP-New Democratic Party,5999
+Conservative,29428
+People's Party - PPC,5916
+Maverick Party,2573
+Green Party,364
+Liberal,2431
+NDP-New Democratic Party,6019
+Conservative,29486
+REPORTING:Red Deer--Mountain View
+Liberal,4145
+Conservative,40634
+NDP-New Democratic Party,8820
+People's Party - PPC,7570
+Libertarian,210
+Maverick Party,1639
+Independent,307
+Liberal,4084
+Conservative,40680
+NDP-New Democratic Party,8826
+People's Party - PPC,7581
+Libertarian,211
+Maverick Party,1640
+Independent,298
+REPORTING:Red Deer--Lacombe
+No Affiliation,574
+Conservative,39316
+NDP-New Democratic Party,8694
+Maverick Party,978
+People's Party - PPC,7883
+Liberal,3684
+Libertarian,213
+No Affiliation,573
+Conservative,39805
+NDP-New Democratic Party,8806
+Maverick Party,986
+People's Party - PPC,7893
+Liberal,3704
+Libertarian,212
+REPORTING:St. Albert--Edmonton
+People's Party - PPC,3684
+Conservative,29652
+NDP-New Democratic Party,17816
+Liberal,11187
+People's Party - PPC,3684
+Conservative,29652
+NDP-New Democratic Party,17816
+Liberal,11188
+REPORTING:Sherwood Park--Fort Saskatchewan
+Conservative,41092
+Liberal,8730
+Maverick Party,849
+Green Party,701
+Independent,282
+NDP-New Democratic Party,14750
+People's Party - PPC,5004
+Conservative,41092
+Liberal,8730
+Maverick Party,849
+Green Party,700
+Independent,283
+NDP-New Democratic Party,14740
+People's Party - PPC,5004
+REPORTING:Sturgeon River--Parkland
+Maverick Party,1243
+Conservative,40423
+People's Party - PPC,6599
+NDP-New Democratic Party,12602
+Liberal,4526
+Christian Heritage Party,495
+Maverick Party,1240
+Conservative,40957
+People's Party - PPC,6671
+NDP-New Democratic Party,12532
+Liberal,4579
+Christian Heritage Party,497
+REPORTING:Yellowhead
+VCP,149
+People's Party - PPC,6452
+Maverick Party,1763
+NDP-New Democratic Party,5977
+Liberal,2856
+Conservative,33622
+VCP,147
+People's Party - PPC,6475
+Maverick Party,1761
+NDP-New Democratic Party,5977
+Liberal,2829
+Conservative,33603
+REPORTING:Abbotsford
+Conservative,21607
+Green Party,1517
+Liberal,10879
+People's Party - PPC,3337
+NDP-New Democratic Party,7739
+Conservative,21597
+Green Party,1517
+Liberal,10907
+People's Party - PPC,3300
+NDP-New Democratic Party,7729
+REPORTING:Burnaby North--Seymour
+Liberal,18748
+Green Party,1462
+NDP-New Democratic Party,13815
+People's Party - PPC,1331
+Conservative,12185
+Liberal,19445
+Green Party,1516
+NDP-New Democratic Party,14318
+People's Party - PPC,1370
+Conservative,12535
+REPORTING:Burnaby South
+Green Party,1185
+Independent,296
+Conservative,9104
+Liberal,12361
+NDP-New Democratic Party,16382
+People's Party - PPC,1290
+Green Party,1175
+Independent,296
+Conservative,9104
+Liberal,12361
+NDP-New Democratic Party,16382
+People's Party - PPC,1290
+REPORTING:Cariboo--Prince George
+Conservative,25770
+Liberal,8447
+People's Party - PPC,4160
+Green Party,1844
+NDP-New Democratic Party,10323
+Christian Heritage Party,218
+Conservative,25771
+Liberal,8397
+People's Party - PPC,4160
+Green Party,1844
+NDP-New Democratic Party,10323
+Christian Heritage Party,218
+REPORTING:Central Okanagan--Similkameen--Nicola
+Conservative,29826
+Liberal,15305
+People's Party - PPC,4661
+NDP-New Democratic Party,13462
+Green Party,1718
+Conservative,30563
+Liberal,13291
+People's Party - PPC,4788
+NDP-New Democratic Party,13813
+Green Party,1755
+REPORTING:Chilliwack--Hope
+People's Party - PPC,4004
+Green Party,1401
+NDP-New Democratic Party,13927
+Conservative,23987
+Liberal,8851
+People's Party - PPC,4004
+Green Party,1391
+NDP-New Democratic Party,13927
+Conservative,23987
+Liberal,8851
+REPORTING:Cloverdale--Langley City
+Liberal,20890
+Conservative,19272
+NDP-New Democratic Party,10584
+People's Party - PPC,2559
+Liberal,20877
+Conservative,19223
+NDP-New Democratic Party,10587
+People's Party - PPC,2563
+REPORTING:Coquitlam--Port Coquitlam
+Conservative,17047
+People's Party - PPC,2388
+NDP-New Democratic Party,15114
+Liberal,21638
+Conservative,16907
+People's Party - PPC,2373
+NDP-New Democratic Party,14982
+Liberal,21454
+REPORTING:Courtenay--Alberni
+Marxist-Leninist,122
+People's Party - PPC,3467
+Liberal,9241
+NDP-New Democratic Party,30604
+Green Party,3670
+Conservative,22197
+Marxist-Leninist,124
+People's Party - PPC,3467
+Liberal,9276
+NDP-New Democratic Party,30612
+Green Party,3590
+Conservative,22181
+REPORTING:Cowichan--Malahat--Langford
+Conservative,17091
+People's Party - PPC,3814
+Liberal,9892
+NDP-New Democratic Party,25803
+Green Party,3781
+Conservative,17870
+People's Party - PPC,3952
+Liberal,10320
+NDP-New Democratic Party,26968
+Green Party,3922
+REPORTING:Delta
+NDP-New Democratic Party,9580
+Independent,388
+Liberal,22105
+Conservative,17695
+Green Party,1243
+People's Party - PPC,1291
+NDP-New Democratic Party,9591
+Independent,379
+Liberal,22105
+Conservative,17695
+Green Party,1244
+People's Party - PPC,1291
+REPORTING:Fleetwood--Port Kells
+People's Party - PPC,1242
+Green Party,824
+Liberal,19868
+Conservative,13639
+Independent,137
+NDP-New Democratic Party,8260
+People's Party - PPC,1284
+Green Party,892
+Liberal,21350
+Conservative,14553
+Independent,146
+NDP-New Democratic Party,8960
+REPORTING:Kamloops--Thompson--Cariboo
+Independent,147
+Conservative,29881
+Green Party,2576
+People's Party - PPC,4033
+Liberal,12717
+Independent,291
+NDP-New Democratic Party,20406
+Independent,146
+Conservative,30281
+Green Party,2576
+People's Party - PPC,4033
+Liberal,12717
+Independent,264
+NDP-New Democratic Party,20431
+REPORTING:Kelowna--Lake Country
+NDP-New Democratic Party,12204
+Conservative,30409
+Liberal,17707
+People's Party - PPC,4688
+Green Party,2074
+NDP-New Democratic Party,12204
+Conservative,30409
+Liberal,17767
+People's Party - PPC,4688
+Green Party,2074
+REPORTING:Kootenay--Columbia
+People's Party - PPC,4320
+Liberal,5482
+Conservative,26845
+Green Party,2411
+NDP-New Democratic Party,22179
+People's Party - PPC,4467
+Liberal,5879
+Conservative,28056
+Green Party,2577
+NDP-New Democratic Party,23986
+REPORTING:Langley--Aldergrove
+People's Party - PPC,3341
+NDP-New Democratic Party,12288
+Green Party,1799
+Liberal,16585
+Conservative,28644
+People's Party - PPC,3341
+NDP-New Democratic Party,12288
+Green Party,1798
+Liberal,16565
+Conservative,28643
+REPORTING:Mission--Matsqui--Fraser Canyon
+Green Party,1891
+Liberal,10597
+People's Party - PPC,3073
+NDP-New Democratic Party,8729
+Conservative,18866
+Green Party,1887
+Liberal,10598
+People's Party - PPC,3073
+NDP-New Democratic Party,8709
+Conservative,18908
+REPORTING:Nanaimo--Ladysmith
+NDP-New Democratic Party,18051
+Liberal,8327
+Conservative,17050
+Green Party,15313
+People's Party - PPC,3204
+NDP-New Democratic Party,19826
+Liberal,9314
+Conservative,18627
+Green Party,17640
+People's Party - PPC,3358
+REPORTING:New Westminster--Burnaby
+People's Party - PPC,1840
+Liberal,11685
+NDP-New Democratic Party,23954
+Green Party,2035
+Conservative,9710
+People's Party - PPC,1840
+Liberal,11685
+NDP-New Democratic Party,24054
+Green Party,2035
+Conservative,9710
+REPORTING:North Okanagan--Shuswap
+Conservative,33596
+People's Party - PPC,7209
+Liberal,13667
+Green Party,3967
+NDP-New Democratic Party,13930
+Conservative,33626
+People's Party - PPC,7209
+Liberal,13666
+Green Party,3967
+NDP-New Democratic Party,13929
+REPORTING:North Vancouver
+NDP-New Democratic Party,11750
+People's Party - PPC,1545
+Conservative,16671
+Green Party,2598
+Liberal,26756
+NDP-New Democratic Party,11750
+People's Party - PPC,1545
+Conservative,16671
+Green Party,2598
+Liberal,26756
+REPORTING:Pitt Meadows--Maple Ridge
+Parti Rhinocéros Party,161
+Conservative,19371
+People's Party - PPC,2890
+NDP-New Democratic Party,16869
+Independent,453
+Liberal,13179
+Parti Rhinocéros Party,161
+Conservative,19371
+People's Party - PPC,2800
+NDP-New Democratic Party,16869
+Independent,453
+Liberal,13179
+REPORTING:Port Moody--Coquitlam
+Liberal,14231
+People's Party - PPC,1762
+Conservative,16605
+Marxist-Leninist,122
+NDP-New Democratic Party,19367
+Liberal,14231
+People's Party - PPC,1766
+Conservative,16605
+Marxist-Leninist,122
+NDP-New Democratic Party,19367
+REPORTING:Prince George--Peace River--Northern Rockies
+Liberal,4236
+People's Party - PPC,5138
+CFF - Canada's Fourth Front,53
+Maverick Party,1581
+Green Party,1661
+NDP-New Democratic Party,6644
+Conservative,29783
+Liberal,4236
+People's Party - PPC,5138
+CFF - Canada's Fourth Front,53
+Maverick Party,1580
+Green Party,1661
+NDP-New Democratic Party,6647
+Conservative,29882
+REPORTING:Richmond Centre
+Green Party,1063
+People's Party - PPC,707
+Liberal,12701
+NDP-New Democratic Party,5849
+Conservative,12039
+Green Party,1109
+People's Party - PPC,748
+Liberal,13440
+NDP-New Democratic Party,6196
+Conservative,12668
+REPORTING:Esquimalt--Saanich--Sooke
+People's Party - PPC,2919
+Conservative,13099
+NDP-New Democratic Party,25745
+Green Party,5436
+Liberal,13009
+Communist,226
+People's Party - PPC,2995
+Conservative,13885
+NDP-New Democratic Party,28056
+Green Party,5891
+Liberal,14466
+Communist,249
+REPORTING:Saanich--Gulf Islands
+Conservative,14775
+Communist,141
+People's Party - PPC,1943
+Green Party,24558
+Liberal,12056
+NDP-New Democratic Party,12064
+Conservative,14775
+Communist,141
+People's Party - PPC,1943
+Green Party,24648
+Liberal,12056
+NDP-New Democratic Party,11959
+REPORTING:Skeena--Bulkley Valley
+NDP-New Democratic Party,15100
+People's Party - PPC,2794
+Liberal,2790
+Conservative,12885
+Christian Heritage Party,754
+Green Party,1355
+NDP-New Democratic Party,15921
+People's Party - PPC,2888
+Liberal,2866
+Conservative,13513
+Christian Heritage Party,797
+Green Party,1406
+REPORTING:South Okanagan--West Kootenay
+NDP-New Democratic Party,27372
+Green Party,2472
+Conservative,23473
+Liberal,8129
+People's Party - PPC,4862
+NDP-New Democratic Party,27595
+Green Party,2485
+Conservative,23675
+Liberal,8159
+People's Party - PPC,4866
+REPORTING:South Surrey--White Rock
+Conservative,24176
+Liberal,22164
+People's Party - PPC,2190
+NDP-New Democratic Party,8438
+Conservative,24158
+Liberal,22166
+People's Party - PPC,2186
+NDP-New Democratic Party,8395
+REPORTING:Steveston--Richmond East
+Liberal,16542
+Conservative,13065
+Green Party,859
+People's Party - PPC,955
+NDP-New Democratic Party,7523
+Liberal,16543
+Conservative,13066
+Green Party,860
+People's Party - PPC,955
+NDP-New Democratic Party,7525
+REPORTING:Surrey Centre
+Communist,137
+NDP-New Democratic Party,10628
+Conservative,8075
+People's Party - PPC,1539
+Green Party,838
+Christian Heritage Party,289
+Liberal,16862
+Communist,137
+NDP-New Democratic Party,10627
+Conservative,8094
+People's Party - PPC,1539
+Green Party,838
+Christian Heritage Party,289
+Liberal,16862
+REPORTING:Surrey--Newton
+Liberal,19721
+Independent,628
+NDP-New Democratic Party,9536
+Conservative,5758
+People's Party - PPC,967
+Liberal,19721
+Independent,628
+NDP-New Democratic Party,9536
+Conservative,5758
+People's Party - PPC,967
+REPORTING:Vancouver Centre
+Conservative,11473
+Liberal,20916
+NDP-New Democratic Party,15911
+Green Party,2077
+People's Party - PPC,1737
+Conservative,11162
+Liberal,20873
+NDP-New Democratic Party,15869
+Green Party,2030
+People's Party - PPC,1683
+REPORTING:Vancouver East
+Libertarian,831
+Conservative,5389
+Communist,387
+NDP-New Democratic Party,27899
+People's Party - PPC,1382
+Green Party,3813
+Liberal,9807
+Libertarian,831
+Conservative,5399
+Communist,387
+NDP-New Democratic Party,27969
+People's Party - PPC,1382
+Green Party,3826
+Liberal,9797
+REPORTING:Vancouver Granville
+NDP-New Democratic Party,16619
+Conservative,13290
+People's Party - PPC,1177
+Liberal,17055
+Green Party,1434
+NDP-New Democratic Party,16619
+Conservative,13280
+People's Party - PPC,1177
+Liberal,17050
+Green Party,1434
+REPORTING:North Island--Powell River
+NDP-New Democratic Party,22559
+Conservative,20779
+Maverick Party,322
+Liberal,7540
+People's Party - PPC,2685
+Marxist-Leninist,89
+Green Party,3482
+NDP-New Democratic Party,23833
+Conservative,21670
+Maverick Party,310
+Liberal,7922
+People's Party - PPC,2795
+Marxist-Leninist,77
+Green Party,3656
+REPORTING:Vancouver Kingsway
+Conservative,5368
+Liberal,10852
+Communist,172
+Green Party,1560
+NDP-New Democratic Party,20659
+People's Party - PPC,860
+Marxist-Leninist,65
+Conservative,5456
+Liberal,11022
+Communist,175
+Green Party,1575
+NDP-New Democratic Party,20994
+People's Party - PPC,868
+Marxist-Leninist,68
+REPORTING:Vancouver Quadra
+NDP-New Democratic Party,9220
+Conservative,13786
+Liberal,20814
+People's Party - PPC,963
+Green Party,2922
+NDP-New Democratic Party,9220
+Conservative,13786
+Liberal,20814
+People's Party - PPC,963
+Green Party,2922
+REPORTING:Vancouver South
+People's Party - PPC,1104
+Conservative,9030
+Marxist-Leninist,287
+NDP-New Democratic Party,9923
+Liberal,19889
+People's Party - PPC,1104
+Conservative,9060
+Marxist-Leninist,287
+NDP-New Democratic Party,9922
+Liberal,19910
+REPORTING:Victoria
+NDP-New Democratic Party,27335
+Conservative,8670
+Green Party,6999
+Liberal,16537
+People's Party - PPC,1999
+Animal Protection Party,250
+Communist,268
+NDP-New Democratic Party,29301
+Conservative,9152
+Green Party,7472
+Liberal,18194
+People's Party - PPC,2065
+Animal Protection Party,273
+Communist,291
+REPORTING:West Vancouver--Sunshine Coast--Sea to Sky Country
+People's Party - PPC,2306
+Independent,50
+Parti Rhinocéros Party,98
+NDP-New Democratic Party,16262
+Independent,77
+Green Party,4113
+Liberal,21470
+Conservative,19062
+People's Party - PPC,2299
+Independent,50
+Parti Rhinocéros Party,98
+NDP-New Democratic Party,16265
+Independent,77
+Green Party,4108
+Liberal,21500
+Conservative,19062
+REPORTING:Yukon
+Conservative,5096
+Liberal,6471
+Green Party,919
+Independent,2639
+NDP-New Democratic Party,4354
+Conservative,5096
+Liberal,6471
+Green Party,846
+Independent,2639
+NDP-New Democratic Party,4354
+REPORTING:Northwest Territories
+Independent,1791
+NDP-New Democratic Party,4558
+Green Party,355
+Liberal,5387
+Conservative,2031
+Independent,1791
+NDP-New Democratic Party,4558
+Green Party,328
+Liberal,5387
+Conservative,2031
+REPORTING:Nunavut
+Liberal,2588
+NDP-New Democratic Party,3483
+Conservative,1205
+Liberal,2578
+NDP-New Democratic Party,3427
+Conservative,1184
